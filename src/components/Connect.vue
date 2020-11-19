@@ -2,23 +2,21 @@
   <div class="connect">
 
     <transition-group name="fade">
-      <div class="connect__slide" key=1 v-show="activeSlide == 0"><g-image class="connect__logos" src="~/assets/images/connect-logos.png" width="1180" blur="10" retina="true" alt="The Modern Web Logos" /></div>
-      <div class="connect__slide" key=2 v-show="activeSlide == 1"><g-image class="connect__logos" src="~/assets/images/connect-logos-2.png" width="1180" blur="10" retina="true" alt="The Modern Web Logos 2" /></div>
-      <div class="connect__slide" key=3 v-show="activeSlide == 2"><g-image class="connect__logos" src="~/assets/images/connect-logos-3.png" width="1180" blur="10" retina="true" alt="The Modern Web Logos 3" /></div>
+      <div class="connect__slide" key=1 v-show="activeSlide == 0"><g-image class="connect__logos" src="~/assets/images/diagram-02.png" width="1180" blur="10" retina="true" alt="The Modern Web Logos" /></div>
+      <div class="connect__slide" key=2 v-show="activeSlide == 1"><g-image class="connect__logos" src="~/assets/images/diagram-03.png" width="1180" blur="10" retina="true" alt="The Modern Web Logos 2" /></div>
+      <div class="connect__slide" key=3 v-show="activeSlide == 2"><g-image class="connect__logos" src="~/assets/images/diagram-04.png" width="1180" blur="10" retina="true" alt="The Modern Web Logos 3" /></div>
     </transition-group>
 
-    <g-image class="connect__main" src="~/assets/images/diagram-01.png" width="1180" blur="10" retina="true" alt="The Modern Web Background" />
+    <g-image class="connect__main" src="~/assets/images/diagram-05.png" width="1180" blur="10" retina="true" alt="The Modern Web Background" />
 
     <svg class="connect__dots" width="958" height="833" viewBox="0 0 958 833" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M470 127.683C470 181.683 470.371 187.786 477.5 243.183" stroke="#2AD6A1" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1 30"/>
-      <path d="M176.401 253.252C235.5 246 284.5 253.252 373 304" stroke="#2AD6A1" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1 30"/>
-      <path d="M94.5 470.683C165.776 425.389 421.5 546.683 470.865 513.08" stroke="#2AD6A1" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1 30"/>
-      <path d="M453.5 680.183C412.5 680.183 362.22 620.869 352.74 594.887" stroke="#2AD6A1" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1 30"/>
-      <path d="M818 614.183C719.5 725.683 653.174 630.762 565.175 603.762" stroke="#2AD6A1" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1 30"/>
-      <path d="M775.5 270.183C699 292.183 689.433 312.527 623.372 349.107" stroke="#2AD6A1" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1 30"/>
-      <path d="M791.835 441.342C732.834 454.842 741.333 494.842 683.334 510.342" stroke="#2AD6A1" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1 30"/>
+      <path d="M378.49,171.57c14,.81,23.31,12.08,29.76,22.39,14,22.46,25.3,47.16,23.18,72.36-.77,9.23-3,19.58,4,26.82" stroke="#2AD6A1" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1 30"/>
+      <path d="M240.2,390c11.32-3.09,23,2.65,33.18,8.47,46.89,26.81,92.49,59.86,145.88,68" stroke="#2AD6A1" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1 30"/>
+      <path d="M293.56,604.13c-1.61-12.85-3.21-26-.7-38.66s9.88-25.16,21.72-30.41" stroke="#2AD6A1" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1 30"/>
+      <path d="M574.48,619.67c-13.63-2.13-23.44-15.66-24.76-29.4S554,563,561.52,551.43s17-21.74,24.79-33.13c8-11.62,14.29-25.76,11.14-39.48" stroke="#2AD6A1" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1 30"/>
+      <path d="M721.46,364.82c-18-1.08-36.2-2.16-54.05.54a83.39,83.39,0,0,0-16.92,4.18c-8.7,3.28-16.52,8.47-24.79,12.73a125.77,125.77,0,0,1-33.1,11.55C584,395.53,574,396,567.42,390.06" stroke="#2AD6A1" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1 30"/>
+      <path d="M666.78,205.19c1.77,14.43,3.51,29.27-.14,43.34-5,19.35-19.49,34.6-33.42,48.94" stroke="#2AD6A1" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1 30"/>
     </svg>
-
 
   </div>
 </template>
