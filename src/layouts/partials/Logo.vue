@@ -1,8 +1,7 @@
 <template>
-  <div class="logo" @contextmenu="rightClick" oncontextmenu="return false;">
+  <div class="logo">
     <g-link class="logo__link" to="/" title="Back to home">
-      <Logo class="logo__svg hide-for-small" alt="Gridsome.org" />
-      <LogoSmall class="logo__svg show-for-small logo__svg--small" alt="Gridsome.org" />
+        Ersilia Open Source Initiative
     </g-link>
   </div>
 </template>

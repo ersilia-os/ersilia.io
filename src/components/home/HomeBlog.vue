@@ -11,7 +11,7 @@
     </div>
 
     <div class="container text-center">
-      <g-image width="400" alt="Ersilia logo" style="width: 150px; margin:0" src="~/assets/images/Ersilia_Brand_Black.png" />
+      <g-image width="400" alt="Ersilia logo" style="width: 150px; margin:0" src="~/assets/images/ersilia-gridsome-color.svg" />
     </div>
 
   </Section>

@@ -25,11 +25,11 @@
         </div>
 
         <p class="works__powered-by">
-          Powered by the <br/><strong>Chemical Checker </strong>
+          Powered by the <br/><strong>Chemical Checker</strong>
         </p>
 
         <ul class="works__tools flex gap-15 text-center flex--center">
-          <li>Bioactivity signatures</li>
+          <li><g-link to="//bioactivitysignatures.org">Bioactivity signatures</g-link></li>
         </ul>
 
         <template slot="outer">
@@ -39,17 +39,16 @@
       </Card>
 
       <Card title="Predict">
-        <h4>Static Web Hosts & CDNs</h4>
+        <h4>Deployed A.I. models</h4>
         <p>
-          <g-link to="/docs/deploy-to-netlify/">Netlify</g-link>, <g-link to="/docs/deploy-to-amplify/">AWS Amplify</g-link>, <g-link to="/docs/deploy-to-vercel/">Vercel</g-link>, <g-link to="/docs/deploy-to-amazon-s3/">Amazon S3</g-link>, <g-link to="/docs/deploy-to-surge-sh/">Surge.sh</g-link>, Aerobatic & many more.
+          Our computational models are ready to be used. No need for expertise.
         </p>
 
         <ul class="bullet-list mb">
-          <li><Bullet /><g-link to="/docs/fast-by-default/#pre-rendered-html">Pre-rendered HTML</g-link></li>
-          <li><Bullet /><g-link to="/docs/fast-by-default/#automatic-code-splitting">Automatic Code Splitting</g-link></li>
-          <li><Bullet /><g-link to="/docs/fast-by-default/#the-prpl-pattern">Follows PRPL-pattern</g-link></li>
-          <li><Bullet /><g-link to="/docs/fast-by-default/#smart-link-prefetching">Smart link prefetching</g-link></li>
-          <li><Bullet /><g-link to="/docs/fast-by-default/#progressive-images">Progressive Images</g-link></li>
+          <li><Bullet /><g-link to="/docs/">Single web app predictions</g-link></li>
+          <li><Bullet /><g-link to="/docs/">Batch predictions through API</g-link></li>
+          <li><Bullet /><g-link to="/docs/">Download and run locally</g-link></li>
+          <li><Bullet /><g-link to="/docs/">Orchestrate multiple models</g-link></li>
         </ul>
       </Card>
 

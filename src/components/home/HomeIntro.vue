@@ -17,7 +17,7 @@
         </p>
 
         <p class="home-info">
-          <span>Open-source MIT Licensed. </span>
+          <span>MIT Licensed. </span>
           <a href="//github.com/gridsome/gridsome" target="_blank" rel="noopener noreferrer">
             <span>GitHub (v{{ $static.metaData.gridsomeVersion }})</span>
           </a>

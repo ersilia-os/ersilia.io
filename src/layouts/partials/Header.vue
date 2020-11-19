@@ -22,17 +22,6 @@
           <twitter-logo/>
         </a>
 
-        <a
-          aria-label="LinkedIn"
-          href="//www.linkedin.com/company/ersiliaio/"
-          rel="noopener noreferrer"
-          class="hide-for-small"
-          target="_blank"
-          title="Follow us on LinkedIn"
-        >
-          <discord-logo/>
-        </a>
-
         <div class="has-dropdown">
           <a
             aria-label="GitHub"
@@ -78,7 +67,7 @@ import SearchForm from '@/components/SearchForm.vue'
 import ToggleTheme from '@/components/ToggleTheme.vue'
 import GithubLogo from '@/assets/images/github-logo.svg'
 import TwitterLogo from '@/assets/images/twitter-logo.svg'
-import DiscordLogo from '@/assets/images/discord-logo.svg'
+import DiscordLogo from '@/assets/images/linkedin-logo.svg'
 import LazyHydrate from 'vue-lazy-hydration'
 
 export default {
