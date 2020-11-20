@@ -1,14 +1,14 @@
 <template>
 	<div class="ecosystem">
 
-		<h5 class="text-center">Gridsome Ecosystem</h5>
+		<h5 class="text-center">Ersilia Ecosystem</h5>
 
 		<div class="ecosystem__cols grid-cols grid-cols--4">
 
 			<Card class="ecosystem__item" link="/docs">
 				<icon-docs />
 				<h4>Docs</h4>
-				<p>Get started with Gridsome and learn how to use it.</p>
+				<p>Learn how to use the Ersilia toolbox.</p>
 			</Card>
 
 			<Card class="ecosystem__item" link="/plugins">
@@ -19,14 +19,14 @@
 
 			<Card class="ecosystem__item" link="/starters">
 				<icon-starters />
-				<h4>Starters</h4>
-				<p>Browse premade Gridsome projects to get started quickly.</p>
+				<h4>Models</h4>
+				<p>Browse A.I. models of biomedicine.</p>
 			</Card>
 
 			<Card class="ecosystem__item" link="/blog">
 				<icon-blog />
 				<h4>Blog</h4>
-				<p>Articles, tips & tricks from the Gridsome community.</p>
+				<p>Articles from Ersilia team.</p>
 			</Card>
 
 		</div>
@@ -55,7 +55,7 @@ export default {
 
 		&__item {
 			font-size: .9rem;
-			
+
 			svg {
 				float: right;
 				margin-top: -12px;
