@@ -19,7 +19,7 @@
 
 			<Card class="ecosystem__item" link="/starters">
 				<icon-starters />
-				<h4>Models</h4>
+				<h4>Starters</h4>
 				<p>Browse A.I. models of biomedicine.</p>
 			</Card>
 
