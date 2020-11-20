@@ -1,17 +1,17 @@
 - title: Model 1
   repo: gridsome/gridsome-starter-default
-  author: gridsome
+  author: mduran
   featured: true
 
 - title: Model 2
   repo: gridsome/gridsome-starter-wordpress
-  author: gridsome
+  author: mduran
   platforms: wordpress
   featured: true
 
 - title: Model 3
   repo: gridsome/gridsome-starter-contentful
-  author: gridsome
+  author: mduran
   tags: markdown, tailwind
   platforms: contentful
   featured: true
