@@ -36,10 +36,3 @@ The linter can automatically fix certain classes of failure. To accept these fix
 ```shell
 markdownlint '**/*.md' --ignore node_modules --fix
 ```
-
-## Deployment
-
-We deploy this website using [netlify](netlify.com).
-
-* Build command: `gridsome build`
-* Publish directory: `dist`

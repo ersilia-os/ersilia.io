@@ -3,16 +3,16 @@
     <div class="container text-center ">
 
         <h1 class="intro__title">
-          <span>Welcome to Ersilia Hub!</span>
+          <span>Welcome to Ersilia!</span>
         </h1>
 
         <p class="intro__lead lead post mb">
-          Open Source Drug Discovery for Global Health
+          Open source Drug Discovery for Global Health
         </p>
 
         <p class="intro__links">
-          <g-link  to="/starters/" class="button primary button--large">
-            <span>Check our Hub</span>
+          <g-link  to="/docs/" class="button primary button--large">
+            <span>Check our hub</span>
           </g-link>
         </p>
 

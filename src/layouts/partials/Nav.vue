@@ -5,7 +5,7 @@
     </g-link>
 
     <g-link to="/starters/">
-      <span class="main-nav__label">Models</span>
+      <span class="main-nav__label">Starters</span>
     </g-link>
 
     <g-link to="/plugins/">

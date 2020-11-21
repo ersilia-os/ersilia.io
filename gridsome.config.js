@@ -1,10 +1,10 @@
 const nodeExternals = require('webpack-node-externals')
 
 module.exports = {
-  siteName: 'Ersilia',
-  siteUrl: `ersiliaio.netlify.app`,
-  titleTemplate: '%s - Hub',
-  siteDescription: 'Ersilia is an open source hub of computational drug discovery models',
+  siteName: 'Gridsome',
+  siteUrl: `https://www.gridsome.org`,
+  titleTemplate: '%s - Gridsome',
+  siteDescription: 'Gridsome is a free & open source Vue.js-powered framework for building websites & apps that are fast by default 🚀.',
 
   chainWebpack(config, { isServer }) {
     config.module.rules.delete('svg')
