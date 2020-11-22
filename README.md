@@ -1,6 +1,6 @@
 # Ersilia website
 
-This is the Git repository for ersilia.io (largely based on gridsome.org)
+This is the Git repository for the [Ersilia Hub](ersilia-hub.netlify.app) webiste (largely based on the awesome [Gridsome](gridsome.org) website)
 
 ## Install
 
@@ -36,3 +36,10 @@ The linter can automatically fix certain classes of failure. To accept these fix
 ```shell
 markdownlint '**/*.md' --ignore node_modules --fix
 ```
+
+## Deploy on Netlify
+
+We deploy this website using [Netlify](netlify.com).
+
+* Run command: `gridsome build`
+* Folder: `dist`

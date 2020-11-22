@@ -8,25 +8,25 @@
 			<Card class="ecosystem__item" link="/docs">
 				<icon-docs />
 				<h4>Docs</h4>
-				<p>Get started with Gridsome and learn how to use it.</p>
+				<p>Get started with Ersilia and learn how to use it.</p>
 			</Card>
 
 			<Card class="ecosystem__item" link="/plugins">
 				<icon-plugins />
 				<h4>Plugins</h4>
-				<p>Enhance your Gridsome site with amazing plugins.</p>
+				<p>Learn about our projects.</p>
 			</Card>
 
 			<Card class="ecosystem__item" link="/starters">
 				<icon-starters />
 				<h4>Starters</h4>
-				<p>Browse premade Gridsome projects to get started quickly.</p>
+				<p>Browse Ersilia AI models.</p>
 			</Card>
 
 			<Card class="ecosystem__item" link="/blog">
 				<icon-blog />
 				<h4>Blog</h4>
-				<p>Articles, tips & tricks from the Gridsome community.</p>
+				<p>Articles and news from the Ersilia team.</p>
 			</Card>
 
 		</div>
@@ -55,7 +55,7 @@ export default {
 
 		&__item {
 			font-size: .9rem;
-			
+
 			svg {
 				float: right;
 				margin-top: -12px;
