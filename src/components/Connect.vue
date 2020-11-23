@@ -19,7 +19,6 @@
       <path d="M791.835 441.342C732.834 454.842 741.333 494.842 683.334 510.342" stroke="#2AD6A1" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1 30"/>
     </svg>
 
-
   </div>
 </template>
 

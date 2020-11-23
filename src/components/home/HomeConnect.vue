@@ -2,11 +2,13 @@
   <Section class="home-connect">
     <div class="grid-cols flex grid-cols--2 grid-cols--gap-large">
       <div class="text-center">
-        <h2>Connect the modern web</h2>
+        <h2>A hub of A.I. models for biomedicine</h2>
         <p class="lead">
-          The modern web is decoupled and modular. Gridsome makes it painlessly easy to build <g-link to="/docs/jamstack/">Jamstack</g-link> websites using data from multiple sources such as Content API's, Headless CMSs, and other web services.
+           We have put together a hub of A.I. models related to drug discovery and global health.
+           All predictive models are ready-to-use and available at no cost.
+           
         </p>
-        <p><g-link to="/starters/">Browse Ersilia models</g-link></p>
+        <p><g-link to="/starters/">Browse the model hub</g-link></p>
       </div>
        <div>
         <Connect />

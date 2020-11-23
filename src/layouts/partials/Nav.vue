@@ -9,10 +9,6 @@
       <span class="main-nav__label">Docs</span>
     </g-link>
 
-    <g-link to="/plugins/">
-      <span class="main-nav__label">Projects</span>
-    </g-link>
-
     <g-link to="/blog/">
       <span class="main-nav__label">Blog</span>
     </g-link>

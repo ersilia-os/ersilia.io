@@ -1,6 +1,6 @@
 <template>
   <Starters>
-    <h1>{{ $page.platform.title }} models</h1>
+    <h1>{{ $page.platform.title }}</h1>
 
     <div class="grid-cols grid-cols--3 mb">
       <StarterCard v-for="starter in $page.platform.belongsTo.edges" :key="starter.node.id" :node="starter.node"  />
@@ -13,10 +13,10 @@
     <hr />
     <p>
       Feel free to
-      <a href="//discord.gg/daeay6n" rel="noopener noreferrer" target="_blank">
+      <g-link to="mailto:hello@ersilia.io">
         request
-      </a>
-      {{ $page.platform.title }} models to us!
+      </g-link>
+      models to us!
     </p>
 
   </Starters>

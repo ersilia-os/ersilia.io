@@ -1,0 +1,17 @@
+- id: compound
+  title: Compound
+
+- id: dna
+  title: DNA
+
+- id: rna
+  title: RNA
+
+- id: protein
+  title: Protein
+
+- id: text
+  title: Text
+
+- id: image
+  title: Image

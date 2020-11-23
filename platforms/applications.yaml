@@ -1,0 +1,23 @@
+- id: general
+  title: General
+
+- id: cancer
+  title: Cancer
+
+- id: ovarian-cancer
+  title: Ovarian Cancer
+
+- id: lung-cancer
+  title: Lung Cancer
+
+- id: colorectal-cancer
+  title: Colorectal Cancer
+
+- id: Infectious disease
+  title: Infectious disease
+
+- id: Malaria
+  title: Malaria
+
+- id: Tuberculosis
+  title: Tuberculosis
