@@ -2,12 +2,12 @@
   <div class="connect">
 
     <transition-group name="fade">
-      <div class="connect__slide" key=1 v-show="activeSlide == 0"><g-image class="connect__logos" src="~/assets/images/Ersilia_Doctor_Green.svg" width="1180" blur="10" retina="true" alt="Ersilia Doctor" /></div>
-      <div class="connect__slide" key=2 v-show="activeSlide == 1"><g-image class="connect__logos" src="~/assets/images/Ersilia_Publications_Green.svg" width="1180" blur="10" retina="true" alt="Ersilia Publications" /></div>
-      <div class="connect__slide" key=3 v-show="activeSlide == 2"><g-image class="connect__logos" src="~/assets/images/Ersilia_Bacteria_Green.svg" width="1180" blur="10" retina="true" alt="Ersilia Bacteria" /></div>
-      <div class="connect__slide" key=4 v-show="activeSlide == 3"><g-image class="connect__logos" src="~/assets/images/Ersilia_Computer_Green.svg" width="1180" blur="10" retina="true" alt="Ersilia Computer" /></div>
-      <div class="connect__slide" key=5 v-show="activeSlide == 4"><g-image class="connect__logos" src="~/assets/images/Ersilia_Drug_Green.svg" width="1180" blur="10" retina="true" alt="Ersilia Drug" /></div>
-      <div class="connect__slide" key=6 v-show="activeSlide == 5"><g-image class="connect__logos" src="~/assets/images/Ersilia_Globe_Green.svg" width="1180" blur="10" retina="true" alt="Ersilia Globe" /></div>
+      <div class="connect__slide" key=1 v-show="activeSlide == 0"><g-image class="connect__logos" src="~/assets/images/Ersilia_Doctor_Green-01.png" width="1180" blur="10" retina="true" alt="Ersilia Doctor" /></div>
+      <div class="connect__slide" key=2 v-show="activeSlide == 1"><g-image class="connect__logos" src="~/assets/images/Ersilia_Publications_Green-01.png" width="1180" blur="10" retina="true" alt="Ersilia Publications" /></div>
+      <div class="connect__slide" key=3 v-show="activeSlide == 2"><g-image class="connect__logos" src="~/assets/images/Ersilia_Bacteria_Green-01.png" width="1180" blur="10" retina="true" alt="Ersilia Bacteria" /></div>
+      <div class="connect__slide" key=4 v-show="activeSlide == 3"><g-image class="connect__logos" src="~/assets/images/Ersilia_Computer_Green-01.png" width="1180" blur="10" retina="true" alt="Ersilia Computer" /></div>
+      <div class="connect__slide" key=5 v-show="activeSlide == 4"><g-image class="connect__logos" src="~/assets/images/Ersilia_Drug_Green-01.png" width="1180" blur="10" retina="true" alt="Ersilia Drug" /></div>
+      <div class="connect__slide" key=6 v-show="activeSlide == 5"><g-image class="connect__logos" src="~/assets/images/Ersilia_Globe_Green-01.png" width="1180" blur="10" retina="true" alt="Ersilia Globe" /></div>
     </transition-group>
 
     <g-image class="connect__main" src="~/assets/images/empty-background.png" width="1180" blur="0" retina="true" alt="Empty background" />
