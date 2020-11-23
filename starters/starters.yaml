@@ -17,3 +17,13 @@
   tags: disease, ecoli
   platforms: chemistry
   featured: false
+
+- title: Antibiotic activity 3
+  description: eos4a50
+  screenshot: ./screenshots/img-02-4.jpg
+  repo: ersilia-os/eos0aaa
+  author: ersilia
+  preview: http://example.com
+  tags: disease, ecoli
+  platforms: chemistry
+  featured: false
