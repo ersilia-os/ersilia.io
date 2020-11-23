@@ -36,14 +36,11 @@
             />
           </a>
           <div class="dropdown">
+            <a href="//github.com/ersilia-os" rel="noopener noreferrer" target="_blank">
+              Core repository
+            </a>
             <a href="//github.com/ersilia-os/ersilia" rel="noopener noreferrer" target="_blank">
-              Core Repository
-            </a>
-            <a href="//github.com/ersilia-os/ersilia/blob/master/gridsome/CHANGELOG.md" rel="noopener noreferrer" target="_blank">
-              Core Changelog
-            </a>
-            <a href="//github.com/ersilia-os/ersilia/issues" rel="noopener noreferrer" target="_blank">
-              Core Issues
+              All repositories
             </a>
           </div>
         </div>

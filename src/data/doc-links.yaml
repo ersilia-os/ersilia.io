@@ -22,6 +22,8 @@
   items:
     - title: People
       link: /docs/people/
+    - title: Publications
+      link: /docs/publications/
     - title: Code of conduct
       link: https://github.com/ersilia-os/ersilia/blob/master/CODE_OF_CONDUCT.md
     - title: Diversity and inclusion
@@ -31,5 +33,7 @@
 
 - title: Contribute
   items:
-    - title: How to contribute
-      link: /docs/how-to-contribute/
+    - title: Support our project
+      link: /docs/support-our-project/
+    - title: Request a model
+      link: /docs/request-a-model/

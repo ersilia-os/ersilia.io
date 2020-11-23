@@ -1,4 +1,4 @@
-- title: Antibiotic activity
+- title: Antibiotic activity of small molecules
   description: eos4e40
   screenshot: ./screenshots/img-01-6.jpg
   repo: ersilia-os/eos0aaa
@@ -6,6 +6,9 @@
   preview: http://example.com
   tags: disease, ecoli
   platforms: chemistry
+  input: molecule
+  application: infectious disease
+  endpoint: antibiotic activity
   featured: true
 
 - title: Antibiotic activity 2

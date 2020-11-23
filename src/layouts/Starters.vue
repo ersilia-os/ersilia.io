@@ -13,17 +13,37 @@
           <h3 class="menu-item" >Inputs</h3>
 
           <g-link class="menu-item platform-link" v-for="item in platforms"  :key="item.node.id" :to="item.node.path" >
-            <g-image v-if="item.node.logo" :src="item.node.logo" />
+
             {{ item.node.title }}
             <span class="platform-count" :class="{'platform-count--fade-out': item.node.belongsTo.totalCount == 0}">
               {{ item.node.belongsTo.totalCount }}
             </span>
           </g-link>
 
-          <h3 class="menu-item" >Outputs</h3>
+          <h3 class="menu-item" >Endpoints</h3>
+
+          <g-link class="menu-item platform-link" v-for="item in platforms"  :key="item.node.id" :to="item.node.path" >
+
+            {{ item.node.title }}
+            <span class="platform-count" :class="{'platform-count--fade-out': item.node.belongsTo.totalCount == 0}">
+              {{ item.node.belongsTo.totalCount }}
+            </span>
+          </g-link>
+
+          <h3 class="menu-item" >Applications</h3>
+
+          <g-link class="menu-item platform-link" v-for="item in platforms"  :key="item.node.id" :to="item.node.path" >
+
+            {{ item.node.title }}
+            <span class="platform-count" :class="{'platform-count--fade-out': item.node.belongsTo.totalCount == 0}">
+              {{ item.node.belongsTo.totalCount }}
+            </span>
+          </g-link>
+
 
           <hr />
-          <g-link to="/docs/how-to-contribute/#request-a-model">Request a Model →</g-link>
+
+          <g-link to="mailto:hello@ersilia.io">Request a Model →</g-link>
       </div>
 
       <Section class="starters-content container flex-fit">

@@ -2,7 +2,7 @@
 
 At the moment, we provide a Python-based library to access and run our models. In the future, we will make our models available through web applications.
 
-Make sure to have [Conda](example.com) and [Git](example.com) installed in your computer. Most likely you do :)
+Make sure to have [Conda](http://example.com) and [Git](http://example.com) installed in your computer. Most likely you do :)
 
 ## Install Conda
 

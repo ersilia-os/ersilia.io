@@ -31,7 +31,7 @@ To start a REST API server locally, simply use the `serve` command:
 ersilia serve eos0aaa
 ```
 
-The `eos0aaa` model is served at `localhost:5000`. You can go to [http://localhost:5000](example.com) and use a simple UI.
+The `eos0aaa` model is served at `localhost:5000`. You can go to [http://localhost:5000](http://example.com) and use a simple UI.
 
 ## Check BentoML!
 
