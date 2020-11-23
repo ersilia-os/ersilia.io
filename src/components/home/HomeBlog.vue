@@ -1,7 +1,7 @@
 <template>
   <Section dots="true" secondary="true">
     <div class="container text-center container-sm mb">
-      <h2>Ersilia News</h2>
+      <h2>Ersilia Blog</h2>
     </div>
     <div class="blog-posts container container-md">
       <PostCard v-for="edge in $static.posts.edges" :key="edge.node.id" :post="edge.node"/>

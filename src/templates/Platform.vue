@@ -1,6 +1,6 @@
 <template>
   <Starters>
-    <h1>{{ $page.platform.title }} starters</h1>
+    <h1>{{ $page.platform.title }} models</h1>
 
     <div class="grid-cols grid-cols--3 mb">
       <StarterCard v-for="starter in $page.platform.belongsTo.edges" :key="starter.node.id" :node="starter.node"  />
@@ -12,11 +12,11 @@
 
     <hr />
     <p>
-      Feel free to join the
+      Feel free to
       <a href="//discord.gg/daeay6n" rel="noopener noreferrer" target="_blank">
-        #{{ $page.platform.title }}
+        request
       </a>
-      community channel in Gridsome Discord.
+      {{ $page.platform.title }} models to us!
     </p>
 
   </Starters>
@@ -69,4 +69,3 @@ export default {
   }
 }
 </script>
-

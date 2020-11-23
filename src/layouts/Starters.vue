@@ -7,10 +7,10 @@
           <h3 class="menu-item" >Browse</h3>
 
           <g-link class="menu-item menu-link" to="/starters/">
-            All starters
+            All Models
           </g-link>
 
-          <h3 class="menu-item" >Platforms</h3>
+          <h3 class="menu-item" >Inputs</h3>
 
           <g-link class="menu-item platform-link" v-for="item in platforms"  :key="item.node.id" :to="item.node.path" >
             <g-image v-if="item.node.logo" :src="item.node.logo" />
@@ -20,8 +20,10 @@
             </span>
           </g-link>
 
+          <h3 class="menu-item" >Outputs</h3>
+
           <hr />
-          <g-link to="/docs/how-to-contribute/#submit-a-starter">Submit a Starter →</g-link>
+          <g-link to="/docs/how-to-contribute/#request-a-model">Request a Model →</g-link>
       </div>
 
       <Section class="starters-content container flex-fit">

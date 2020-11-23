@@ -1,47 +1,38 @@
-# Deployment
+# Model deployment
 
-To deploy a Gridsome site you need a **static web host**.
+Ersilia is powered by the open-source [BentoML](http://bentoml.ai) library. BentoML is an outstanding tool that makes it seamlessly easy to bring ML models to productions.
+Accordingly, most functionalities available from the Ersilia CLI are directly inherited by the BentoML command line tool.
 
-## Git-based deploying
+The following is a limited list of deployment functionalities inherited directly from BentoML. For more details, please visit
+the [BentoML docs](https://docs.bentoml.org/en/latest/index.html).
 
-The best practice when working with Gridsome sites is to have your project hosted on a Git-service like GitHub and connect a deploy service that builds your site from a selected repository.
+## Get an overview of your local repository
 
-These services are great for Git-based deploying:
+By default, BentoML stores all model files in the `~/bentoml` directory.
+This directory contains all the code, configs and files required for deployment.
 
-- [Netlify](/docs/deploy-to-netlify/)
+```
+ersilia list
+```
 
-- [AWS Amplify](/docs/deploy-to-amplify/)
+For a prettier view of the list in your browser, you can try the Yatai service following [these instructions](https://docs.bentoml.org/en/latest/quickstart.html#save-prediction-service-for-distribution).
 
-- [Vercel](/docs/deploy-to-vercel/)
+## Command-line interface
 
-- [GitLab Pages](/docs/deploy-to-gitlab/)
+```
+ersilia run eos0aaa --input
+```
 
-- [GitHub Pages](/docs/deploy-to-github/)
+## Web based UI
 
-- [Surge.sh](/docs/deploy-to-surge-sh/)
+To start a REST API server locally, simply use the `serve` command:
 
-## Deploy from terminal
+```
+ersilia serve eos0aaa
+```
 
-Many services let you deploy your static Gridsome site from the terminal. Here are some:
+The `eos0aaa` model is served at `localhost:5000`. You can go to [http://localhost:5000]() and use a simple UI.
 
-- [Amazon S3](/docs/deploy-to-amazon-s3/)
+## Check BentoML!
 
-- [Vercel](/docs/deploy-to-vercel/)
-
-- [Surge.sh](/docs/deploy-to-surge-sh/)
-
-## FTP deploying
-
-To host your site on traditional hosting via FTP you need to manually build your project from the terminal.
-
-- Run `gridsome build` in your project folder.
-- This will generate a `dist` folder where your generated site is located.
-- Upload the content of this folder to any FTP to get started.
-
-## Drag & drop deploying
-
-**Netlify Drop** lets you deploy a website with simply drag & drop.
-
-- Run `gridsome build` in your project folder.
-- This will generate a `dist` folder where your generated site is located.
-- Visit [Netlify Drop](https://app.netlify.com/drop) and drop the `dist` folder there.
+BentoML many more functionalities and all of those can be applied to Ersilia models. Visit the [BentoML docs](https://docs.bentoml.org/en/latest/quickstart.html) to know more.

@@ -1,77 +1,39 @@
-# Introduction
+# Welcome to Ersilia's documentation!
 
-> Gridsome is a Vue.js powered [Jamstack](/docs/jamstack) framework for building static generated websites & apps that are [fast by default](/docs/fast-by-default/) 🚀.
+> Ersilia is a nonprofit enterprise that aims to provide the community with a set of computational tools related to global health drug discovery.
 
-## Why Gridsome?
+## Our mission
 
-- **Vue.js for frontend** - The simplest & most approachable frontend framework.
-- **Data sourcing** - Use any Headless CMSs, APIs or Markdown-files for data.
-- **Local development with hot-reloading** - See code changes in real-time.
-- **File-based page routing** - Any `Name.vue` file in `src/pages` is a static route.
-- **Dynamic routing** - Any `[param].vue` file in `src/pages` is a dynamic route.
-- **Static file generation** - Deploy securely to any CDN or static web host.
-- **GraphQL data layer** - Simpler data management with a centralized data layer.
-- **Automatic Code Splitting** - Builds ultra performance into every page.
-- **Plugin ecosystem** - Find a plugin for any job.
+Machine-learning is revolutionising the drug discovery filed. Unfortunately, computational models remain inaccessible to the broad scientific community, especially in low-resource countries.
 
-## What is the Jamstack?
+* [Know more about us](http://ersilia.io)
+* [View our code on GitHub](https://github.com/ersilia-os/ersilia)
 
-**Gridsome is a Jamstack framework**. Jamstack lets you build fast and secure sites and apps delivered by pre-rendering files and serving them directly from a CDN, removing the requirement to manage or run web servers.
+## Machine learning
 
-[Learn more about the Jamstack](/docs/jamstack).
+Computational methods hold the promise to revolutionize the drug discovery field, capitalizing on the vast amount of experimental data accumulated over the years and the latest advances in machine learning.
 
-## How it works
+Unfortunately, due to the lack of a unified framework for effective dissemination, ML models remain inaccessible to the broad scientific community, and their use is not yet integrated in day-to-day biomedical research.
 
-Gridsome **generates static html** that hydrates into a **Vue SPA** once loaded in the browser. This means you can build both **static websites** & **dynamic apps** with Gridsome.
+We are creating Ersilia, a platform hosting hundreds of pre-trained models to help non-expert researchers identify drug candidates for orphan diseases, design molecules _de novo_, understand mechanisms of action or anticipate adverse side-effects.
 
-Gridsome builds one `.html` file and one `.json` file for every page. After first page load it only uses the `.json` files to prefetch and load data for the next pages. It also builds a `.js` bundle for each page that needs it (code splitting).
+The ultimate goal of Ersilia is to effectively lower the barrier to drug discovery, encouraging academic groups and enterprises to pursue the development of new medicines following the principles of [Open Source Drug Discovery](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cmdc.201900565).
 
-It uses [vue-router](https://router.vuejs.org/) for SPA routing, and [vue-meta](https://vue-meta.nuxtjs.org/) for managing `<head>`.
+## Roadmap
 
-Gridsome adds a `57kB min gzip` JS bundle size by default.(vue.js, vue-router, vue-meta and some for image lazy loading).
+Our journey started in September 2020.
 
-[Learn more about how it works.](/docs/how-it-works)
+### Literature-curated models
 
-## Prerequisites
+Our first task will be to curate peer-reviewed ML models existing in the literature and gather them in a common framework.
 
-You should have basic knowledge about HTML, CSS, [Vue.js](https://vuejs.org) and how to use the [Terminal](https://www.linode.com/docs/tools-reference/tools/using-the-terminal/). Knowing how [GraphQL](https://www.graphql.com/) works is a plus, but not required. Gridsome is a great way to learn it.
+### Ersilia models
 
-Gridsome requires [Node.js](https://nodejs.org/) (v8.3+) and recommends [Yarn](https://yarnpkg.com).
+Next, we will train a battery of in-house models focused on diseases that are currently neglected by the pharmaceutical industry due to estimated low returns. Ersilia core technology for model building is the Chemical Checker (Duran-Frigola et al, Nature Biotechnology, 2020), an existing platform that embeds most of the available drug biomedical data into a unified vectorial format, providing an excellent basis for efficient modelling. Finally, Ersilia will be released as an intuitive, user-friendly hub of ready-to-use Open Source Drug Discovery (OSDD) models, ultimately unlocking the full potential of ML to transform biomedicine and global health.
 
-## How to install
+### A fully deployed platform
 
-### 1. Install Gridsome CLI tool
+We are just getting started and, at the moment.
 
-- Using **YARN:** `yarn global add @gridsome/cli`
-- Using **NPM:** `npm install --global @gridsome/cli`
 
-### 2. Create a Gridsome project
-
-1. `gridsome create my-gridsome-site` to create a new project </li>
-2. `cd my-gridsome-site` to open folder
-3. `gridsome develop` to start local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
-
-### 3. Next steps
-
-1. Create `.vue` components in the `src/pages` directory to create page routes.
-2. Use `gridsome build` to generate static files in a `/dist` folder
-
-#### Learn more
-
-- [Core concepts](/docs/core-concepts/)
-- [How to host & deploy](/docs/deployment/)
-
-import Newsletter from '@/components/Newsletter.vue'
-
-<div>
-  <Newsletter/>
-</div>
-
-## Alternatives
-
-- **[VuePress.](https://vuepress.vuejs.org/)** Another static site generator for Vue.js. It uses local markdown files for content and is perfect for documentation sites. It is possible to build anything in VuePress and Markdown (Like a blog f.ex).
-
-- **[Nuxt.](https://nuxtjs.org/)** A Universal Vue.js Framework for server-side rendered (SSR) apps and websites. It also has a static site generator feature, but the main focus is SSR.
-
-- **[Gatsby.js](https://www.gatsbyjs.org/)** Gridsome is highly inspired by Gatsby.js (React.js based), which collects data sources and generates a static site from it. Gridsome is an alternative for Gatsby.js.
+Ersilia is distributed by an [MIT license](https://github.com/ersilia-os/ersilia/blob/master/LICENSE.txt). View our [Code of Conduct](https://github.com/ersilia-os/ersilia/blob/master/CODE_OF_CONDUCT.md).

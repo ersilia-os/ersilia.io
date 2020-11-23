@@ -1,7 +1,12 @@
 <template>
   <Starters>
-    <h1>Gridsome Starters</h1>
-    <p class="mb-x2">Kickstart your Gridsome website with premade projects.</p>
+    <h1>Ersilia A.I. Models for Global Health</h1>
+    <p class="mb-x2">
+      Browse, try and download pre-trained models.
+      We did our best to give credit to everyone involved in building these models.
+      Please feel free to <g-link to="mailto:hello@ersilia.io">contact us</g-link> should you have any claims.
+      And feel free to <g-link to="mailto:hello@ersilia.io">suggest models</g-link> to us!
+    </p>
 
     <div class="grid-cols grid-cols--3 mb">
       <StarterCard v-for="starter in $page.defaultStarters.edges" :key="starter.node.id" :node="starter.node"  />
@@ -91,5 +96,3 @@ query {
   }
 }
 </page-query>
-
-

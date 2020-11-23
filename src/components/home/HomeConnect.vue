@@ -6,7 +6,7 @@
         <p class="lead">
           The modern web is decoupled and modular. Gridsome makes it painlessly easy to build <g-link to="/docs/jamstack/">Jamstack</g-link> websites using data from multiple sources such as Content API's, Headless CMSs, and other web services.
         </p>
-        <p><g-link to="/plugins/">Browse Gridsome Plugins</g-link></p>
+        <p><g-link to="/starters/">Browse Ersilia models</g-link></p>
       </div>
        <div>
         <Connect />

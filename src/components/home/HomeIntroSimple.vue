@@ -11,7 +11,7 @@
         </p>
 
         <p class="intro__links">
-          <g-link  to="/docs/" class="button primary button--large">
+          <g-link  to="/starters/" class="button primary button--large">
             <span>Check our Hub</span>
           </g-link>
         </p>
