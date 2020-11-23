@@ -11,7 +11,7 @@ the [BentoML docs](https://docs.bentoml.org/en/latest/index.html).
 By default, BentoML stores all model files in the `~/bentoml` directory.
 This directory contains all the code, configs and files required for deployment.
 
-```
+```bash
 ersilia list
 ```
 
@@ -19,7 +19,7 @@ For a prettier view of the list in your browser, you can try the Yatai service f
 
 ## Command-line interface
 
-```
+```bash
 ersilia run eos0aaa --input
 ```
 
@@ -27,11 +27,11 @@ ersilia run eos0aaa --input
 
 To start a REST API server locally, simply use the `serve` command:
 
-```
+```bash
 ersilia serve eos0aaa
 ```
 
-The `eos0aaa` model is served at `localhost:5000`. You can go to [http://localhost:5000]() and use a simple UI.
+The `eos0aaa` model is served at `localhost:5000`. You can go to [http://localhost:5000](example.com) and use a simple UI.
 
 ## Check BentoML!
 

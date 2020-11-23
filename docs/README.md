@@ -35,5 +35,4 @@ Next, we will train a battery of in-house models focused on diseases that are cu
 
 We are just getting started and, at the moment.
 
-
 Ersilia is distributed by an [MIT license](https://github.com/ersilia-os/ersilia/blob/master/LICENSE.txt). View our [Code of Conduct](https://github.com/ersilia-os/ersilia/blob/master/CODE_OF_CONDUCT.md).

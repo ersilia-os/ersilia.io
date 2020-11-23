@@ -54,12 +54,12 @@ Ersilia models are stored as BentoML bundles. Hence one can use the outstanding 
 
 To fetch a BentoML bundle from our repository using the CLI, simply run:
 
-```
+```bash
 ersilia fetch eos0aaa
 ```
 
 Now, you can serve predictions the way you wish. BentoML offers a great spectrum of possibilities and Ersilia incorporates all of them.
 For example, you can simply run to obtain predictions for the drug Halicin:
 
-```
+```bash
 ersilia predict eos0aaa --input='["C1=C(SC(=N1)SC2=NN=C(S2)N)[N+](=O)[O-]"]'
