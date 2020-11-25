@@ -34,6 +34,7 @@ Next, we will train a battery of in-house models focused on diseases that are cu
 
 ### A fully deployed platform
 
-We are just getting started and, at the moment.
+We are just getting started and, at the moment, our model deployment is only available via GitHub. We keep all code open, so you can follow our progress! The App will come soon.
+
 
 Ersilia is distributed under an [MIT license](https://github.com/ersilia-os/ersilia/blob/master/LICENSE.txt). View our [Code of Conduct](https://github.com/ersilia-os/ersilia/blob/master/CODE_OF_CONDUCT.md).
