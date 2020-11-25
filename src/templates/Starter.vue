@@ -1,8 +1,7 @@
 <template>
   <Starters class="starter">
       <div class="starter__header flex">
-        <g-image class="starter__header-platform-logo" v-if="$page.starter.platforms" :src="$page.starter.platforms.logo" />
-
+        
         <strong class="starter__header-title">{{ $page.starter.title }}</strong>
 
         <g-link

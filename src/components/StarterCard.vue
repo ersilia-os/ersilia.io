@@ -8,9 +8,6 @@
       <div class="starter__actions flex gap-15">
         By {{ node.author.title }}
       </div>
-      <div class="starter__platform">
-        <g-image v-if="node.platforms" :src="node.platforms.logo" />
-      </div>
     </div>
   </Card>
 </template>
