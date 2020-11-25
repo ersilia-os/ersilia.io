@@ -4,8 +4,7 @@
 
 ## Our mission
 
-We aim to democratize the use of data-driven research by facilitating access to state of the art machine-learning (ML) models to the broad scientific community. Our current focus is in ML models directed at tackling infectious diseases in low-resource countries and use computational tools as a means to strengthen their research capacity.
-
+We aim to democratize the use of data-driven research by facilitating access to state of the art machine-learning (ML) models to the broad scientific community. Our current focus is in developing ML models directed at tackling infectious diseases in low-resource countries and using computational tools as a means to strengthen their research capacity.
 
 * [Know more about us](http://ersilia.io)
 * [View our code on GitHub](https://github.com/ersilia-os/ersilia)
@@ -35,6 +34,5 @@ Next, we will train a battery of in-house models focused on diseases that are cu
 ### A fully deployed platform
 
 We are just getting started and, at the moment, our model deployment is only available via GitHub. We keep all code open, so you can follow our progress! The App will come soon.
-
 
 Ersilia is distributed under an [MIT license](https://github.com/ersilia-os/ersilia/blob/master/LICENSE.txt). View our [Code of Conduct](https://github.com/ersilia-os/ersilia/blob/master/CODE_OF_CONDUCT.md).
