@@ -2,7 +2,7 @@
   items:
     - title: Welcome
       link: /docs/
-    - title: Usage
+    - title: Quick-start
       link: /docs/usage/
     - title: Installation
       link: /docs/installation/
@@ -25,9 +25,9 @@
     - title: Publications
       link: /docs/publications/
     - title: Code of conduct
-      link: https://github.com/ersilia-os/ersilia/blob/master/CODE_OF_CONDUCT.md
+      link: /docs/codeofconduct
     - title: Diversity and inclusion
-      link: https://github.com/ersilia-os/ersilia/wiki/Diversity-and-Inclusion-Statement
+      link: /docs/diversityandinclusion
     - title: Charity commission
       link: /docs/charity/
 
