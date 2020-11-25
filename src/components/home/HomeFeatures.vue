@@ -27,7 +27,7 @@
 
       <Feature>
         <h3>Neglected diseases</h3>
-        <p>Our primary interest is the development of therapies for diseases that burden mostly <strong>low and middle income countries</strong>.
+        <p>Our primary interest is the development of therapies for diseases with high burden in <strong>low and middle income countries</strong>.
         </p>
       </Feature>
 

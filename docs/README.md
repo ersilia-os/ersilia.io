@@ -4,7 +4,8 @@
 
 ## Our mission
 
-Machine-learning is revolutionising the drug discovery filed. Unfortunately, computational models remain inaccessible to the broad scientific community, especially in low-resource countries.
+We aim to democratize the use of data-driven research by facilitating access to state of the art machine-learning (ML) models to the broad scientific community. Our current focus is in ML models directed at tackling infectious diseases in low-resource countries and use computational tools as a means to strengthen their research capacity.
+
 
 * [Know more about us](http://ersilia.io)
 * [View our code on GitHub](https://github.com/ersilia-os/ersilia)
@@ -21,7 +22,7 @@ The ultimate goal of Ersilia is to effectively lower the barrier to drug discove
 
 ## Roadmap
 
-Our journey started in September 2020.
+Our journey started in September 2020. We will launch an first version of the platform containing a hundred models by January 2021.
 
 ### Literature-curated models
 
@@ -35,4 +36,4 @@ Next, we will train a battery of in-house models focused on diseases that are cu
 
 We are just getting started and, at the moment.
 
-Ersilia is distributed by an [MIT license](https://github.com/ersilia-os/ersilia/blob/master/LICENSE.txt). View our [Code of Conduct](https://github.com/ersilia-os/ersilia/blob/master/CODE_OF_CONDUCT.md).
+Ersilia is distributed under an [MIT license](https://github.com/ersilia-os/ersilia/blob/master/LICENSE.txt). View our [Code of Conduct](https://github.com/ersilia-os/ersilia/blob/master/CODE_OF_CONDUCT.md).

@@ -2,9 +2,9 @@
   <Starters>
     <h1>Ersilia A.I. Models for Global Health</h1>
     <p class="mb-x2">
-      Browse, try and download pre-trained models.
+      Browse, try and download our pre-trained models.
       We did our best to give credit to everyone involved in building these models.
-      Please feel free to <g-link to="mailto:hello@ersilia.io">contact us</g-link> should you have any claims.
+      Please do not hesitate to <g-link to="mailto:hello@ersilia.io">contact us</g-link> should you have any claims.
       And feel free to <g-link to="mailto:hello@ersilia.io">suggest models</g-link> to us!
     </p>
 
