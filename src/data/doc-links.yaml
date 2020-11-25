@@ -2,10 +2,10 @@
   items:
     - title: Welcome
       link: /docs/
-    - title: Installation
-      link: /docs/installation/
     - title: Usage
       link: /docs/usage/
+    - title: Installation
+      link: /docs/installation/
     - title: Model deployment
       link: /docs/deployment/
 
