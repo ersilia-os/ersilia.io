@@ -7,22 +7,22 @@ You can browse available models from the [Ersilia model hub](https://ersilia-os.
 - endpoint: prediction of your interest _toxicity, drug-target interaction, cell sensitivity, synthetic accessibiity..._
 - application: focus on a certain disease, if applicable _cancer, malaria, HIV, COVID19..._
 
-`In this example, the model is classified as:
+In this example, the model is classified as:
 - input: molecule
 - endpoint: antibiotic activity
-- application: infectious disease`
+- application: infectious disease
 
 Models in Ersilia are identified with the following ID structure: `eos{digit}{3 alphanumeric characters}`. Please, use this ID when citing our models.
 
-`In this example, ID for the [antibiotic activity](https://ersilia-os.github.io/ersilia-hub.github.io/first-gemma-post/) model is eos0aaa`
+In this example, ID for the [antibiotic activity](https://ersilia-os.github.io/ersilia-hub.github.io/first-gemma-post/) model is eos0aaa
 
 Our model hub includes both models developed by Ersilia as well as models available from the literature (third party authorship). In the latter, Ersilia re trains the models if needed and bundles them for easy deployment. Appropriate author citations are always included.
 
-`The antibiotic predictor is based on [Stokes et al. Cell, 2020](https://pubmed.ncbi.nlm.nih.gov/32084340/). Authors kindly shared to the community the model checkpoint.`
+The antibiotic predictor is based on [Stokes et al. Cell, 2020](https://pubmed.ncbi.nlm.nih.gov/32084340/). Authors kindly shared to the community the model checkpoint.
 
 Once you identify the models you want to use, simply click on them to find a summary of the most important features (e.g how many datapoints were used for training, whether it was experimentally validated, its application domain...) It is important to keep in mind the Limitations of each model. At Ersilia we do our best to summarize the most important, but it is up to each user to understand their data and the scope of the chosen models. If you need help, please contact us at [hello@ersilia.io](mailto:hello@ersilia.io).
 
-`For eos0aaa we have created the following summary and limitations list:
+For eos0aaa we have created the following summary and limitations list:
 
 Summary
 - Predicts **antibiotic activity**
@@ -37,12 +37,12 @@ Summary
 Limitations
 - Training set using only _E.coli_ data, not other organisms
 - Predicts antibiotic activity against a pathogen, not valid for host targets
-- Ersilia retrained the model on-premise using the published datasets`
+- Ersilia retrained the model on-premise using the published datasets
 
 Deployment
 To use our models, you can query a single input at a time using our website app or, if you are familiar with coding, you can download and install it in your computer following the installation instructions.
 
-`to open the website app, go to the [button] at the top of the model card.`
+to open the website app, go to the [button] at the top of the model card.
 
 ## Python console
 
