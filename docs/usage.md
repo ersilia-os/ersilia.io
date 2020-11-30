@@ -17,9 +17,10 @@ Models in Ersilia are identified with the following ID structure: `eos{digit}{3 
 Our model hub includes both models developed by Ersilia as well as models available from the literature (third party authorship). In the latter, Ersilia re trains the models if needed and bundles them for easy deployment. Appropriate author citations are always included.
 >The antibiotic predictor is based on [Stokes et al. Cell, 2020](https://pubmed.ncbi.nlm.nih.gov/32084340/). Authors kindly shared to the community the model checkpoint.
 
-Once you identify the models you want to use, simply click on them to find a summary of the most important features (e.g how many datapoints were used for training, whether it was experimentally validated, its application domain...) It is important to keep in mind the Limitations of each model. At Ersilia we do our best to summarize the most important, but it is up to each user to understand their data and the scope of the chosen models. If you need help, please contact us at <g-link to="mailto:hello@ersilia.io">hello@ersilia.io</g-link>.
+Once you identify the models you want to use, simply click on them to find a summary of the most important features (e.g how many datapoints were used for training, whether it was experimentally validated, its application domain...) It is important to keep in mind the Limitations of each model. At Ersilia we do our best to summarize the most important, but it is up to each user to understand their data and the scope of the chosen models. If you need help, please contact us at [hello@ersilia.io](mailto:hello@ersilia.io).
 >For eos0aaa we have created the following summary and limitations list:
->## Summary
+> Summary
+
 - Predicts **antibiotic activity**
 - Takes **compound structures** as input
 - Trained with **experimental** bioactivity data against E.coli
@@ -29,14 +30,15 @@ Once you identify the models you want to use, simply click on them to find a sum
 - Identified a **novel broad-spectrum** antibiotic
 - Published in _Stokes et al., Cell 2020_ (<10.1016/j.cell.2020.01.021>)
 
->## Limitations
+> Limitations
+
 - Training set using only _E.coli_ data, not other organisms
 - Predicts antibiotic activity against a pathogen, not valid for host targets
 - Ersilia retrained the model on-premise using the published datasets
 
 Deployment
-To use our models, you can query a single input at a time using our website app or, if you are familiar with coding, you can download and install it in your computer following the [Installation](/docs/installation/) instructions.
->to open the website app, go to the [button](www.example.com) at the top of the model card.
+To use our models, you can query a single input at a time using our website app or, if you are familiar with coding, you can download and install it in your computer following the installation instructions.
+>to open the website app, go to the [button](http://www.example.com) at the top of the model card.
 
 ## Python console
 
@@ -51,10 +53,10 @@ em = ErsiliaModel(model_id)
 What happens behind this code is the following:
 
 1. The model of interest (`eos0aaa`) is fetched from:
-    * A [GitHub repository](https://github.com/ersilia-os/eos0aaa) containing, _at least_:
-        * A `service.py` script defining the serving class (i.e. the class that will provide predictions)
-        * A `pack.py` script that will generate a model bundle for easy deployment, based on [BentoML](https://www.bentoml.ai/)
-    * A compressed file, stored at [Open Science Framework (OSF)](https://osf.io/hu3km/) containing model checkpoint files, i.e. the trained parameters of the model
+    - A [GitHub repository](https://github.com/ersilia-os/eos0aaa) containing, _at least_:
+        - A `service.py` script defining the serving class (i.e. the class that will provide predictions)
+        - A `pack.py` script that will generate a model bundle for easy deployment, based on [BentoML](https://www.bentoml.ai/)
+    - A compressed file, stored at [Open Science Framework (OSF)](https://osf.io/hu3km/) containing model checkpoint files, i.e. the trained parameters of the model
 2. A `~/bentoml/repository/eos0aaa/` folder is created containing the bundled model (see BentoML docs for more details)
 3. A `pip` package named `eos0aaa` is created in your local computer
 
@@ -65,9 +67,9 @@ The fetching functionalities of Ersilia are configurable. Please see advanced us
 Once the model is ready, one can simply run predictions for the molecules of interest. Let's say that we want to predict the antibiotic activity of:
 The standard input are SMILES strings.
 
-* Ceftazidime: `[O-]C(=O)C1=C(CS[C@]2([H])[C@H](NC(=O)C(=N/OC(C)(C)C(O)=O)\C3=CSC(N)=N3)C(=O)N12)C[N+]1=CC=CC=C1`
-* Halicin: `C1=C(SC(=N1)SC2=NN=C(S2)N)[N+](=O)[O-]`
-* Ibuprofen: `CC(C)CC1=CC=C(C=C1)C(C)C(O)=O`
+- Ceftazidime: `[O-]C(=O)C1=C(CS[C@]2([H])[C@H](NC(=O)C(=N/OC(C)(C)C(O)=O)\C3=CSC(N)=N3)C(=O)N12)C[N+]1=CC=CC=C1`
+- Halicin: `C1=C(SC(=N1)SC2=NN=C(S2)N)[N+](=O)[O-]`
+- Ibuprofen: `CC(C)CC1=CC=C(C=C1)C(C)C(O)=O`
 
 ```python
 smiles = ['[O-]C(=O)C1=C(CS[C@]2([H])[C@H](NC(=O)C(=N/OC(C)(C)C(O)=O)\C3=CSC(N)=N3)C(=O)N12)C[N+]1=CC=CC=C1',
