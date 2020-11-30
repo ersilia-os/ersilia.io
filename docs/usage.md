@@ -6,13 +6,13 @@ You can browse available models from the [Ersilia model hub](https://ersilia-os.
 - input: type of data you have _Molecule, DNA, RNA, Protein, Image, Text_
 - endpoint: prediction of your interest _Toxicity, Drug-target Interaction, Cell Sensitivity, Synthetic Accessibiity..._
 - application: focus on a certain disease, if applicable _Cancer, Malaria, HIV, COVID19..._
->In this example, the model is classified as:
-- input: molecule
-- endpoint: antibiotic activity
-- application: infectious disease
+'In this example, the model is classified as:'
+'- input: molecule'
+'- endpoint: antibiotic activity'
+'- application: infectious disease'
 
 Models in Ersilia are identified with the following ID structure: `eos{digit}{3 alphanumeric characters}`. Please, use this ID when citing our models.
->In this example, ID for the [antibiotic activity](https://ersilia-os.github.io/ersilia-hub.github.io/first-gemma-post/) model is `eos0aaa`.
+`In this example, ID for the [antibiotic activity](https://ersilia-os.github.io/ersilia-hub.github.io/first-gemma-post/) model is eos0aaa`
 
 Our model hub includes both models developed by Ersilia as well as models available from the literature (third party authorship). In the latter, Ersilia re trains the models if needed and bundles them for easy deployment. Appropriate author citations are always included.
 >The antibiotic predictor is based on [Stokes et al. Cell, 2020](https://pubmed.ncbi.nlm.nih.gov/32084340/). Authors kindly shared to the community the model checkpoint.
