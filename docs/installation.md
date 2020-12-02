@@ -1,47 +1,33 @@
 # Installation
 
-At the moment, we provide a Python-based library to access and run our models. In the future, we will make our models available through web applications.
+:warning: **This is work in progress!** We are working day and night to have a first running version of the software before the end of 2020. Do not try to run this code yet.
 
-Make sure to have [Conda](http://example.com) and [Git](http://example.com) installed in your computer. Most likely you do :)
-
-## Install Conda
-
-## Install RDKit
-
+## Python package
+We recommend working inside a [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/) environment.
 ```bash
-conda install -c conda-forge rdkit
-```
-
-## Install Biopython
-
-```bash
-conda install -c conda-forge biopython
-```
-
-## Install Git and GitHub
-
-First, make sure that [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/) is installed.
-
-Create a conda environment and activate it.
-
-```bash
-conda env create -f environment.yml
-```
-
-```bash
-conda env export > environment.yaml
-```
-
-```bash
-conda create -n ersilia python=3.8
+conda create -n ersilia python=3.7
 conda activate ersilia
 ```
-Then, simply clone our repository
+Then, simply install with pip.
 ```bash
-gh repo clone ersilia-os/ersilia
+# from pypi (feature not ready yet)
+pip install ersilia
+# or latest from github
+pip install git+https://github.com/ersilia-os/ersilia.git
 ```
-Visit the cloned directory and install the library using pip:
+You are done! :tada:
+
 ```bash
-cd ersilia
-pip install .
+ersilia --help
 ```
+
+### Set up
+The first time you run the `ersilia` command, additional dependencies will be installed and containers/images will be generated. So please be patient if it takes a while... :watch:
+
+The following will happen automatically. For your information, this is what Ersilia is going to do:
+
+1. Install conda and git. Most likely you have those installed in your computer.
+2. Install RDKit and BioPython.
+3. Create a `$HOME/eos` folder. This folder will be used to store models and meta-data.
+4. Create a conda environment called `eosbase-<VERSION>`. This environment will be used as a base by other models. It is a bare minumum environment for executing the `ersilia` command.
+5. Build a docker image named `ersiliaos/eos-server:<VERSION>`. This image will be used as a base for most of the docker images related to models.
