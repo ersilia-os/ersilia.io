@@ -9,15 +9,15 @@
     - title: Model deployment
       link: /docs/deployment/
 
-- title: Examples
-  items:
-    - title: Drug-likeness
-      link: /docs/drug-likeness/
-    - title: Synthetic accessibility
-      link: /docs/synthetic-accessibility/
-    - title: Target prediction
-      link: /docs/target-prediction/
-
+# - title: Examples
+#   items:
+#     - title: Drug-likeness
+#      link: /docs/drug-likeness/
+#    - title: Synthetic accessibility
+#      link: /docs/synthetic-accessibility/
+#    - title: Target prediction
+#      link: /docs/target-prediction/
+#
 - title: About us
   items:
     - title: People

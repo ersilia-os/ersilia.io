@@ -1,7 +1,7 @@
 <template>
   <footer class="text-center">
     Proudly developed by
-    <g-link to="//ersilia.io"> Ersilia Open Source Initiative</g-link>
+    <g-link to="http://ersilia.io"> Ersilia Open Source Initiative</g-link>
     <g-link to="//github.com/ersilia-os/ersilia/blob/master/CODE_OF_CONDUCT.md" style="margin-left: .5rem">Code of conduct</g-link>
 
   </footer>

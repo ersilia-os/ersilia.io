@@ -1,8 +1,9 @@
 # Installation
 
-:warning: **This is work in progress!** We are working day and night to have a first running version of the software before the end of 2020. Do not try to run this code yet.
+**This is work in progress!** We are working day and night to have a first running version of the software before the end of 2020. Do not try to run this code yet.
 
 ## Python package
+
 We recommend working inside a [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/) environment.
 ```bash
 conda create -n ersilia python=3.7
@@ -15,14 +16,15 @@ pip install ersilia
 # or latest from github
 pip install git+https://github.com/ersilia-os/ersilia.git
 ```
-You are done! :tada:
+You are done!
 
 ```bash
 ersilia --help
 ```
 
 ### Set up
-The first time you run the `ersilia` command, additional dependencies will be installed and containers/images will be generated. So please be patient if it takes a while... :watch:
+
+The first time you run the `ersilia` command, additional dependencies will be installed and containers/images will be generated. So please be patient if it takes a while...
 
 The following will happen automatically. For your information, this is what Ersilia is going to do:
 
