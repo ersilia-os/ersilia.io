@@ -4,7 +4,7 @@
       <div class="mb-x2 container-sm text-center">
         <h1>Ersilia Blog</h1>
         <p style="opacity: .8"/>
-        Follow our mission to make accessible to biologists and pharmacologists around the globe.
+        Follow our mission to make AI accessible to biologists and pharmacologists around the globe.
         </div>
       <PostCard v-for="edge in $page.posts.edges" :key="edge.node.id" :post="edge.node"/>
 
