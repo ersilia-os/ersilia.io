@@ -1,7 +1,7 @@
 ---
 title: EOS Initiative accepted by the Charity Commission
 slug: ersilia-is-a-charity
-author: [mduran]
+author: [gturon]
 date: 2020-11-20
 excerpt: "Ersilia Open Source Initiative is born! We have been incorporated as a Charity"
 ---
