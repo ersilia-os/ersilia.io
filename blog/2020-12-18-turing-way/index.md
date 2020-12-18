@@ -1,6 +1,6 @@
 ---
 title: The Turing Way Handbook
-slug: turin-way
+slug: turing-way
 author: [gturon]
 date: 2020-12-18
 excerpt: "Guidelines for a collaborative data science environment"
