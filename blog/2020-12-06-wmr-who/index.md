@@ -21,3 +21,5 @@ In summary, major advances have been made in the eradication of malaria, but the
 - To reduce malaria case incidence by 90% (compared to 2015)
 - To eliminate malaria from at least 35 malaria endemic countries
 - To prevent re-establishment of malaria in all Member States currently malaria-free
+
+>World malaria report 2020: 20 years of global progress and challenges. Geneva: World Health Organization; 2020. Licence: CC BY-NC-SA 3.0 IGO
