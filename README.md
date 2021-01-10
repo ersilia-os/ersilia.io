@@ -1,6 +1,6 @@
 # Ersilia website
 
-This is the Git repository for the [Ersilia Hub](ersilia-hub.netlify.app) webiste (largely based on the awesome [Gridsome](gridsome.org) website)
+This is the Git repository for the [Ersilia Hub](ersilia-hub.netlify.app) website (largely based on the awesome [Gridsome](gridsome.org) website)
 
 ## Install
 
@@ -17,7 +17,7 @@ Installation below may need `sudo` privileges.
 
 ## Linting Markdown
 
-Gridsome usese [markdownlint-cli](https://www.npmjs.com/package/markdownlint-cli) to enforce style consistency rules on the documentation. The linter runs automatically on every push and pull request via [GitHub Actions](https://docs.github.com/en/actions).
+Gridsome uses [markdownlint-cli](https://www.npmjs.com/package/markdownlint-cli) to enforce style consistency rules on the documentation. The linter runs automatically on every push and pull request via [GitHub Actions](https://docs.github.com/en/actions).
 
 To install the linter on your machine, run the following:
 

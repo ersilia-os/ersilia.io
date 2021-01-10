@@ -36,9 +36,9 @@ export default {
 
       import('docsearch.js').then(({ default: docsearch }) => {
         docsearch({
-          indexName: 'gridsome',
+          indexName: 'ersilia',
           inputSelector: `#${this.id}-input`,
-          apiKey: 'a7400a3a94b256c5283cb05efb860fc1',
+          apiKey: '350ac5a6986a4f2dbcaf36096f6061d1',
           debug: process.env.NODE_ENV === 'development'
         })
 
