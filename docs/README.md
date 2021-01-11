@@ -1,4 +1,4 @@
-# Welcome to Ersilia's documentation!
+# Learn about Ersilia!
 
 > Ersilia is a nonprofit enterprise that aims to provide the community with a set of computational tools related to global health drug discovery.
 
