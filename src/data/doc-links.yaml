@@ -8,6 +8,8 @@
       link: /docs/installation/
     - title: Model deployment
       link: /docs/deployment/
+    - title: For contributors
+      link: /docs/contribute-models/
 
 # - title: Examples
 #   items:
