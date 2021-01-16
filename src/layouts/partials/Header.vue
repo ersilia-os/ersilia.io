@@ -1,6 +1,5 @@
 <template>
   <header>
-    <div class="header-bar"></div>
     <div class="header-inner container flex gap-30">
 
       <Logo/>
@@ -35,14 +34,6 @@
               width="20px"
             />
           </a>
-          <div class="dropdown">
-            <a href="//github.com/ersilia-os" rel="noopener noreferrer" target="_blank">
-              Core repository
-            </a>
-            <a href="//github.com/ersilia-os/ersilia" rel="noopener noreferrer" target="_blank">
-              All repositories
-            </a>
-          </div>
         </div>
       </nav>
     </div>

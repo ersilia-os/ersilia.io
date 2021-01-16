@@ -10,10 +10,6 @@
         <h4>A.I. algorithms</h4>
         <p>We incorporate the latest advances in artificial intelligence</p>
 
-        <template slot="outer">
-          <Dots class="hide-for-small"/>
-          <Dots class="dots--vertical show-for-small"/>
-        </template>
       </Card>
 
       <Card title="Machine learning" class="text-center flex-align-middle">
@@ -32,10 +28,6 @@
           <li><g-link to="//bioactivitysignatures.org">Bioactivity signatures</g-link></li>
         </ul>
 
-        <template slot="outer">
-          <Dots class="hide-for-small"/>
-          <Dots class="dots--vertical show-for-small"/>
-        </template>
       </Card>
 
       <Card title="Predict">
@@ -133,12 +125,12 @@ export default {
 
   &__pulse-bg {
     animation: pulse 2s infinite;
-    border: 3px solid var(--primary-color);
+    border: 1px solid var(--primary-color);
     width: 100px;
     height: 100px;
     position: absolute;
     border-radius: 100%;
-    opacity: .3;
+    opacity: 0.3;
     z-index: -1;
 
     + .works__pulse-bg {

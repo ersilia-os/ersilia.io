@@ -1,3 +1,4 @@
+<!--
 <template>
   <Section class="home-connect">
     <div class="grid-cols flex grid-cols--2 grid-cols--gap-large">
@@ -6,7 +7,7 @@
         <p class="lead">
            We have put together a hub of A.I. models related to drug discovery and global health.
            All predictive models are ready-to-use and available at no cost.
-           
+
         </p>
         <p><g-link to="/starters/">Browse the model hub</g-link></p>
       </div>
@@ -16,6 +17,7 @@
     </div>
   </Section>
 </template>
+-->
 
 <script>
 import Connect from '~/components/Connect.vue'

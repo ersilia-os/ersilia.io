@@ -23,7 +23,6 @@
 	  	</div>
 	   </div>
 		</form>
-		<div class="newsletter__top"></div>
 	</Card>
 </template>
 

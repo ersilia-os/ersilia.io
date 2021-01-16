@@ -11,7 +11,7 @@
         </p>
 
         <p class="intro__links">
-          <g-link  to="/starters/" class="button primary button--large">
+          <g-link  to="/soon/" class="button primary button--large">
             <span>Check our Hub</span>
           </g-link>
         </p>
@@ -43,6 +43,7 @@ query {
     font-weight: 600;
     margin-left: auto;
     margin-right: auto;
+    letter-spacing: -1px;
 
     @media screen and (max-width: 850px) {
       & {

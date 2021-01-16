@@ -8,6 +8,7 @@
   </section>
 </template>
 
+
 <script>
 export default {
   props: ['dark', 'dots', 'container', 'framed', 'secondary'],

@@ -48,7 +48,7 @@ export default {
         display: inline-block;
         padding: 2px 12px 4px;
         background-color: var(--dark-bg);
-        color: #FFF;
+        color: #bee6b4;
         border-radius: 3px;
         font-weight: 500;
         font-size: 1rem;
@@ -61,7 +61,7 @@ export default {
       overflow: hidden;
       border-bottom: 1px solid var(--border-color);
       transition: border-color .3s;
-      
+
       img {
         margin: 0;
         width: 100%;
