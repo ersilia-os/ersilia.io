@@ -1,3 +1,4 @@
+<template/>
 <!--
 <template>
   <Section class="home-connect">
