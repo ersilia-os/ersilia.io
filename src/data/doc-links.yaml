@@ -22,6 +22,8 @@
 #
 - title: About us
   items:
+    - title: Why Ersilia?
+      link: /docs/why-ersilia/
     - title: People
       link: /docs/people/
     - title: Publications
