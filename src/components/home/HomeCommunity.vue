@@ -11,6 +11,13 @@
            and adoption of free software.
         </p>
     	</Card>
+      <Card class="sponsor text-center">
+        <g-link to="https://fosshost.org">
+          <g-image src="~/assets/images/PDD-UpdatedLogo-1.png" alt="PDD"/>
+        </g-link>
+        <p>We endorse the <a href="https://digitalprinciples.org/"  rel="noopener" target="_blank">Principles for Digital Development</a>.
+        </p>
+    	</Card>
     </div>
   </Section>
 </template>
