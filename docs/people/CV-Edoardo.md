@@ -1,7 +1,6 @@
 # Edoardo Gaude
 
-Co-founder and Chief Executive Officer\
-<edoardo@ersilia.io>
+Co-founder and Chief Executive Officer
 
 > I am a Science Entrepreneur with a background in Biochemistry and Diagnostics. My main interest is to develop healthcare academic research into impact innovations. My current focus includes diagnostics applications for large patient populations and therapeutics solutions for low and middle income countries. My free time is generally spent exploring the great outdoors.
 
@@ -9,46 +8,46 @@ Co-founder and Chief Executive Officer\
 
 ### Startup Accelerate Program
 
-*Cambridge (UK), Jan 2018 – current*\
-**Cambridge Judge Business School**\
+*Cambridge (UK), Jan 2018 – current*
+**Cambridge Judge Business School**
 Start and development of life science venture. Business development. Market research.
 
 ### Co-Founder and CSO
 
-*Cambridge (UK), Nov 2017 – current*\
-**POCKiT diagnostics Ltd**\
+*Cambridge (UK), Nov 2017 – current*
+**POCKiT diagnostics Ltd**
 Creation and development of a novel diagnostic tool for stroke patient triage. Fundraising. IP development. Supervision of PhD students.
 
 ### Metabolomics Scientist
 
-*Cambridge (UK), Feb 2018 – Oct 2018*\
-**Owlstone Medical Ltd**\
+*Cambridge (UK), Feb 2018 – Oct 2018*
+**Owlstone Medical Ltd**
 Ideation and Clinical testing of a breath test for lung cancer screening.
 
 ### Visiting Researcher at Tel Aviv University
 
-*Israel, Apr 2014 – Jun 2014*\
-**Eytan Ruppin’s Laboratory**\
+*Israel, Apr 2014 – Jun 2014*
+**Eytan Ruppin’s Laboratory**
 Genome-scale metabolic modeling of cancer.
 
 ### Mass Spectrometry Specialist and Manager of Metabolomics Facility
 
-*Cambridge (UK), Sep 2012 – Sep 2014*\
-**Hutchison/MRC Research Centre, Cancer Unit - Dr C. Frezza lab**\
+*Cambridge (UK), Sep 2012 – Sep 2014*
+**Hutchison/MRC Research Centre, Cancer Unit - Dr C. Frezza lab**
 Investigation of altered metabolism in several diseases. Discovery of metabolic markers for disease diagnosis. Understanding metabolic liabilities of cancer for novel therapeutic applications.
 
 ## Education
 
 ### PhD Student
 
-*Cambridge (UK), Oct 2014 – Dec 2017*\
-**University of Cambridge - Hutchison/MRC Research Centre, Cancer Unit - Dr C. Frezza lab**\
+*Cambridge (UK), Oct 2014 – Dec 2017*
+**University of Cambridge - Hutchison/MRC Research Centre, Cancer Unit - Dr C. Frezza lab**
 Investigation of altered mitochondrial metabolism in cancer initiation and progression. Discovery of alternative mitochondrial therapeutics in cancer.
 
 ### MSc in Medical and Molecular Biotechnology
 
-*Milan (Italy), Oct 2009 – Mar 2012*\
-**Vita-Salute San Raffaele University - Medical Biotechnology program**\
+*Milan (Italy), Oct 2009 – Mar 2012*
+**Vita-Salute San Raffaele University - Medical Biotechnology program**
 Metabolomics investigation of neural stem cells phenotype. Focus on the development and maintenance of R-software package for metabolomics bioinformatics data analysis.
 Full grades (110/110).
 
@@ -60,17 +59,17 @@ Full grades (107/110).
 
 ## Scholarships and Grants
 
-Innovate UK COVID Continuity Grant (2020). Funds obtained: £65,000. *To recruit blood samples from stroke patients in US centres*\
-Innovate UK Precision Medicine (2018). Funds obtained: £965,000. *To develop a novel diagnostic tool for stroke subtype identification*\
-Marie Curie Individual Fellowship, Society and Enterprise (2018). *Establish collaboration between University and Enterprise*\
-MRC DTP scholarship (2014). *4-year PhD funding*\
-Anna Laura Segre fellowship (2012). *To perform metabolomics analysis of mouse brain upon stroke induction*
+* Innovate UK COVID Continuity Grant (2020). Funds obtained: £65,000. *To recruit blood samples from stroke patients in US centres*
+* Innovate UK Precision Medicine (2018). Funds obtained: £965,000. *To develop a novel diagnostic tool for stroke subtype identification*
+* Marie Curie Individual Fellowship, Society and Enterprise (2018). *Establish collaboration between University and Enterprise*
+* MRC DTP scholarship (2014). *4-year PhD funding*
+* Anna Laura Segre fellowship (2012). *To perform metabolomics analysis of mouse brain upon stroke induction*
 
 ## Honors and Awards
 
-Santander Universities Entrepreneurship Award (2018). Funds obtained: £15,000. *Start funding for POCKiT diagnostics Ltd*\
-Best presentation, Hutchison/MRC Annual Retreat, (2017).*\
-Travel fellowship, EACR Conference, Bilbao, Spain, (2016).
+* Santander Universities Entrepreneurship Award (2018). Funds obtained: £15,000. *Start funding for POCKiT diagnostics Ltd*
+* Best presentation, Hutchison/MRC Annual Retreat, (2017).
+* Travel fellowship, EACR Conference, Bilbao, Spain, (2016).
 
 ## Publications
 

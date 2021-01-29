@@ -1,8 +1,6 @@
 # Miquel Duran-Frigola
 
 Co-founder and Chief Scientific Officer\
-<miquel@ersilia.io>\
-[mduranfrigola.me](mduranfrigola.me)
 
 > I am a Computational Biologist with a background in Chemistry. My research has been focused on data-driven Drug Discovery. My current interest is to bring my knowledge closer to the clinics, especially in neglected areas. I spend most of my free time on fiction writing.
 
