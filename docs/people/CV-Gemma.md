@@ -8,23 +8,23 @@ Co-founder and Project Manager
 
 ### Project Manager
 
-*UK, 2020 – current:* **EOSI.** Development of an open-source drug discovery platform to foster the impact of artificial intelligence in global health.
+*UK, 2020 – current:* EOSI. Development of an open-source drug discovery platform to foster the impact of artificial intelligence in global health.
 
 ### PhD Student at IRB Barcelona
 
-*Spain, Aug 2014 – Feb 2019:* **Colorectal Cancer Laboratory.** Genome-editing of human colorectal organoids to study cancer stem cells
+*Spain, Aug 2014 – Feb 2019:* Colorectal Cancer Laboratory. Genome-editing of human colorectal organoids to study cancer stem cells
 
 ### Master Student at IDIBELL
 
-*Spain, Sep 2013 – Jul 2014:* **Metabolism and Cancer Laboratory.** Mechanisms of selective 5'TOP mRNA ribosomal translation
+*Spain, Sep 2013 – Jul 2014:* Metabolism and Cancer Laboratory. Mechanisms of selective 5'TOP mRNA ribosomal translation
 
 ### Visiting Student at Erasmus Medical Centre
 
-*The Netherlands, Feb 2013 – Jul 2013:* **Translational Gynaecological Laboratory.** Characterization of hereditary mutations in ovarian cancer
+*The Netherlands, Feb 2013 – Jul 2013:* Translational Gynaecological Laboratory. Characterization of hereditary mutations in ovarian cancer
 
 ### Visiting Student at IDIBELL
 
-*Spain, Jul 2012 – Sep 2012:* **Metabolism and Cancer Laboratory**
+*Spain, Jul 2012 – Sep 2012:* Metabolism and Cancer Laboratory
 
 ## Education
 
@@ -77,8 +77,8 @@ Co-founder and Project Manager
 
 ### Circus Artist
 
-*Palestine, Feb 2020 - Mar 2020:* **The Palestinian Circus School.** 2-months volunteering as part of the PCS educative team as social circus trainer specialized in aerial disciplines. Age groups: 6-18 years old.
-*Zambia, Jul 2019 - Dec 2019:* **Circus Zambia.** 6-month stay as a member of the administrative team (project managing) and trainer of the social circus school for kids and teenagers (10-20 years old). Teacher of aerial disciplines for performing artists.
-*Barcelona, 2018-current:* **Circus Teacher**
-*Barcelona, 2018-current:* **Performing artist.** Cia Pols
-*Barcelona, 2018-2019:* **Education.** Teacher training for Social Circus, Ateneu Popular de 9 Barris.
+* *Palestine, Feb 2020 - Mar 2020:* **The Palestinian Circus School.** 2-months volunteering as part of the PCS educative team as social circus trainer specialized in aerial disciplines. Age groups: 6-18 years old.
+* *Zambia, Jul 2019 - Dec 2019:* **Circus Zambia.** 6-month stay as a member of the administrative team (project managing) and trainer of the social circus school for kids and teenagers (10-20 years old). Teacher of aerial disciplines for performing artists.
+* *Barcelona, 2018-current:* **Circus Teacher**
+* *Barcelona, 2018-current:* **Performing artist.** Cia Pols
+* *Barcelona, 2018-2019:* **Education.** Teacher training for Social Circus, Ateneu Popular de 9 Barris.
