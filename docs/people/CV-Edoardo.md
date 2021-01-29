@@ -6,23 +6,23 @@ Co-founder and Chief Executive Officer
 
 ## Experience
 
-### Startup Accelerate Program
+#### Startup Accelerate Program
 
 *Cambridge (UK), Jan 2018 – current.* Cambridge Judge Business School: Start and development of life science venture. Business development. Market research.
 
-### Co-Founder and CSO
+#### Co-Founder and CSO
 
 *Cambridge (UK), Nov 2017 – current.* POCKiT diagnostics Ltd: Creation and development of a novel diagnostic tool for stroke patient triage. Fundraising. IP development. Supervision of PhD students.
 
-### Metabolomics Scientist
+#### Metabolomics Scientist
 
 *Cambridge (UK), Feb 2018 – Oct 2018.* Owlstone Medical Ltd: Ideation and Clinical testing of a breath test for lung cancer screening.
 
-### Visiting Researcher at Tel Aviv University
+#### Visiting Researcher at Tel Aviv University
 
 *Israel, Apr 2014 – Jun 2014.* Eytan Ruppin’s Laboratory. Genome-scale metabolic modeling of cancer.
 
-### Mass Spectrometry Specialist and Manager of Metabolomics Facility
+#### Mass Spectrometry Specialist and Manager of Metabolomics Facility
 
 *Cambridge (UK), Sep 2012 – Sep 2014.* Hutchison/MRC Research Centre, Cancer Unit - Dr C. Frezza lab: Investigation of altered metabolism in several diseases. Discovery of metabolic markers for disease diagnosis. Understanding metabolic liabilities of cancer for novel therapeutic applications.
 

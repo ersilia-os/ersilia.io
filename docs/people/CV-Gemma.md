@@ -6,37 +6,37 @@ Co-founder and Project Manager
 
 ## Experience
 
-### Project Manager
+#### Project Manager
 
 *UK, 2020 – current.* EOSI: Development of an open-source drug discovery platform to foster the impact of artificial intelligence in global health.
 
-### PhD Student at IRB Barcelona
+#### PhD Student at IRB Barcelona
 
 *Spain, Aug 2014 – Feb 2019.* Colorectal Cancer Laboratory: Genome-editing of human colorectal organoids to study cancer stem cells
 
-### Master Student at IDIBELL
+#### Master Student at IDIBELL
 
 *Spain, Sep 2013 – Jul 2014.* Metabolism and Cancer Laboratory: Mechanisms of selective 5'TOP mRNA ribosomal translation
 
-### Visiting Student at Erasmus Medical Centre
+#### Visiting Student at Erasmus Medical Centre
 
 *The Netherlands, Feb 2013 – Jul 2013.* Translational Gynaecological Laboratory: Characterization of hereditary mutations in ovarian cancer
 
-### Visiting Student at IDIBELL
+#### Visiting Student at IDIBELL
 
 *Spain, Jul 2012 – Sep 2012.* Metabolism and Cancer Laboratory
 
 ## Education
 
-### PhD in Biomedicine
+#### PhD in Biomedicine
 
 *Sep 2014 – Apr 2019.* University of Barcelona: Cum Laude, Extraordinary Award to PhD Thesis 2019.
 
-### MSc in Biomedicine
+#### MSc in Biomedicine
 
 *Sep 2013 – Jul 2014.* University of Barcelona: Grades: 8/10
 
-### BSc in Biomedical Sciences
+#### BSc in Biomedical Sciences
 
 *Sep 2009 – Jun 2013.* University of Barcelona: Grades 9.5/10. First in class. Project obtained with Honours.
 

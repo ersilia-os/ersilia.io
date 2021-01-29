@@ -6,61 +6,61 @@ Co-founder and Chief Scientific Officer\
 
 ## Experience
 
-### Co-Founder and Chief Scientific Officer at Ersilia Open Source Initiative
+#### Co-Founder and Chief Scientific Officer at Ersilia Open Source Initiative
 
 *UK, Jul 2020 – Present.* EOSI: Development of an open-source drug discovery platform to foster the impact of artificial intelligence in global health.
 
-### Research Associate at IRB Barcelona
+#### Research Associate at IRB Barcelona
 
 *Spain, Jan 2018 – Jun 2020.* Structural Bioinformatics and Network Biology Laboratory: Invention of a computational drug discovery platform. Supervision of PhD and MSc students.
 
-### Visiting Fellow at CIDRZ
+#### Visiting Fellow at CIDRZ
 
 *Zambia, Jul 2019 – Dec 2019.* Centre for Infectious Disease Research in Zambia, Central Laboratory: Harmonization and large-scale analysis of clinical and laboratory data.
 
-### Post-Doctoral Researcher at IRB Barcelona
+#### Post-Doctoral Researcher at IRB Barcelona
 
 *Spain, Feb 2016 – Dec 2017.* Structural Bioinformatics and Network Biology Laboratory: Development of a drug discovery protocol for the *omics* characterization of chemical libraries.
 
-### PhD Student at IRB Barcelona
+#### PhD Student at IRB Barcelona
 
 *Spain, Sept 2011 – Jan 2016:* **Structural Bioinformatics and Network Biology Laboratory.** Network biology approaches to pharmacology and drug side effects.
 
-### Visiting Researcher at Manhiça Health Research Center
+#### Visiting Researcher at Manhiça Health Research Center
 
 *Mozambique, Sep 2015 – Dec 2015.* CISM and ISGlobal: Machine learning methods to determine causes of death in developing countries.
 
-### Visiting Researcher at Tel Aviv University
+#### Visiting Researcher at Tel Aviv University
 
 *Israel, Apr 2014 – Jul 2014.* Eytan Ruppin’s Laboratory: Genome-scale metabolic modeling of cancer.
 
-### Researcher for Development at Central American University
+#### Researcher for Development at Central American University
 
 *El Salvador, Feb 2010 – Sep 2010.* Chemical Engineering Department: Water analysis and improvement of environmental factors in war refugee communities.
 
-### Researcher at IQS School of Engineering
+#### Researcher at IQS School of Engineering
 
 *Spain, Feb 2009 – Jan 2010.* Photochemistry Laboratory: Synthesis and photophysical characterization of porphyrin derivatives.
 
-### Visiting student at MIT
+#### Visiting student at MIT
 
 *USA, Jul 2009 – Sep 2009.* Harvard-MIT Health Sciences and Technology Division: Photodynamic treatment against atherosclerosis.
 
-### Visiting student at Superior Council of Scientific Research
+#### Visiting student at Superior Council of Scientific Research
 
 *Spain, Jun 2008 – Sep 2008.* Theoretical and Computational Chemistry Group: Gas-phase reactivity using quantum chemistry.
 
 ## Education
 
-### PhD in Biomedicine
+#### PhD in Biomedicine
 
 *Sep 2011 – Jan 2016.* Pompeu Fabra University:  Cum Laude, Extraordinary Award UPF.
 
-### MSc in Bioinformatics for Health Sciences
+#### MSc in Bioinformatics for Health Sciences
 
 *Oct 2010 – Jun 2012.* Pompeu Fabra University:  First in class. Project obtained with Honours.
 
-### BSc in Organic Chemistry
+#### BSc in Organic Chemistry
 
 *Sep 2003 – Jun 2009.* IQS School of Engineering: First in class. Extended to obtain the IQS Chemical Engineer title.
 
