@@ -18,6 +18,6 @@ Miquel’s research interests lay at the intersection between drug discovery and
 
 For more detailed CVs, please see below:
 
-* [Edoardo Gaude](https://github.com/ersilia-os/ersilia/wiki/CV-Edoardo)
-* [Gemma Turon](https://github.com/ersilia-os/ersilia/wiki/CV-Gemma)
-* [Miquel Duran-Frigola](https://github.com/ersilia-os/ersilia/wiki/CV-Miquel)
+* [Edoardo Gaude](../people/CV-Edoardo)
+* [Gemma Turon](../people/CV-Gemma)
+* [Miquel Duran-Frigola](../people/CV-Miquel)
