@@ -8,38 +8,38 @@ Co-founder and Chief Executive Officer
 
 ### Startup Accelerate Program
 
-*Cambridge (UK), Jan 2018 – current:* **Cambridge Judge Business School.** Start and development of life science venture. Business development. Market research.
+*Cambridge (UK), Jan 2018 – current.* Cambridge Judge Business School: Start and development of life science venture. Business development. Market research.
 
 ### Co-Founder and CSO
 
-*Cambridge (UK), Nov 2017 – current:* **POCKiT diagnostics Ltd.** Creation and development of a novel diagnostic tool for stroke patient triage. Fundraising. IP development. Supervision of PhD students.
+*Cambridge (UK), Nov 2017 – current.* POCKiT diagnostics Ltd: Creation and development of a novel diagnostic tool for stroke patient triage. Fundraising. IP development. Supervision of PhD students.
 
 ### Metabolomics Scientist
 
-*Cambridge (UK), Feb 2018 – Oct 2018:* **Owlstone Medical Ltd.** Ideation and Clinical testing of a breath test for lung cancer screening.
+*Cambridge (UK), Feb 2018 – Oct 2018.* Owlstone Medical Ltd: Ideation and Clinical testing of a breath test for lung cancer screening.
 
 ### Visiting Researcher at Tel Aviv University
 
-*Israel, Apr 2014 – Jun 2014:* **Eytan Ruppin’s Laboratory.** Genome-scale metabolic modeling of cancer.
+*Israel, Apr 2014 – Jun 2014.* Eytan Ruppin’s Laboratory. Genome-scale metabolic modeling of cancer.
 
 ### Mass Spectrometry Specialist and Manager of Metabolomics Facility
 
-*Cambridge (UK), Sep 2012 – Sep 2014:* **Hutchison/MRC Research Centre, Cancer Unit - Dr C. Frezza lab.** Investigation of altered metabolism in several diseases. Discovery of metabolic markers for disease diagnosis. Understanding metabolic liabilities of cancer for novel therapeutic applications.
+*Cambridge (UK), Sep 2012 – Sep 2014.* Hutchison/MRC Research Centre, Cancer Unit - Dr C. Frezza lab: Investigation of altered metabolism in several diseases. Discovery of metabolic markers for disease diagnosis. Understanding metabolic liabilities of cancer for novel therapeutic applications.
 
 ## Education
 
-### PhD Student
+#### PhD Student
 
-*Cambridge (UK), Oct 2014 – Dec 2017:* **University of Cambridge - Hutchison/MRC Research Centre, Cancer Unit - Dr C. Frezza lab.** Investigation of altered mitochondrial metabolism in cancer initiation and progression. Discovery of alternative mitochondrial therapeutics in cancer.
+*Cambridge (UK), Oct 2014 – Dec 2017.* University of Cambridge - Hutchison/MRC Research Centre, Cancer Unit - Dr C. Frezza lab: Investigation of altered mitochondrial metabolism in cancer initiation and progression. Discovery of alternative mitochondrial therapeutics in cancer.
 
-### MSc in Medical and Molecular Biotechnology
+#### MSc in Medical and Molecular Biotechnology
 
-*Milan (Italy), Oct 2009 – Mar 2012:* **Vita-Salute San Raffaele University - Medical Biotechnology program.** Metabolomics investigation of neural stem cells phenotype. Focus on the development and maintenance of R-software package for metabolomics bioinformatics data analysis.
+*Milan (Italy), Oct 2009 – Mar 2012.* Vita-Salute San Raffaele University - Medical Biotechnology program: Metabolomics investigation of neural stem cells phenotype. Focus on the development and maintenance of R-software package for metabolomics bioinformatics data analysis.
 Full grades (110/110).
 
-### BSc in Pharmaceutical Biotechnology
+#### BSc in Pharmaceutical Biotechnology
 
-*Milan (Italy), Oct 2006 – Sep 2009:* **Vita-Salute San Raffaele University - Medical Biotechnology program.** Full grades (107/110).
+*Milan (Italy), Oct 2006 – Sep 2009.* Vita-Salute San Raffaele University - Medical Biotechnology program: Full grades (107/110).
 
 ## Scholarships and Grants
 
