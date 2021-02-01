@@ -3,7 +3,7 @@ title: Ersilia explained to digital nomads
 slug: cloud-citadel
 author: [mduran]
 date: 2021-01-30
-excerpt: "Toughts after my presentation at Cloud Citadel co-living space"
+excerpt: "Thoughts after my presentation at Cloud Citadel co-living space"
 ---
 
 ### Ersilia explained to digital nomads
