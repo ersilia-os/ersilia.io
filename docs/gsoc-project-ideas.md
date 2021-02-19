@@ -1,4 +1,4 @@
-# Project ideas for the Google Summer of Code
+# Project ideas for the Google Summer of Code 2021
 ## An introduction to the Ersilia Model Hub
 The Ersilia Model Hub is a web-based platform maintained by Ersilia Open Source Initiative (EOSI). It features Machine Learning (ML) models for biomedicine and drug discovery, with a focus on infectious and neglected diseases. Its aim is to bring ML closer to biomedical research and empower uninitiated researchers in the world of computational pharmacology.
 
@@ -40,8 +40,8 @@ In this project, the student is offered the opportunity to develop a Python libr
 #### Expected outcomes:
 Keep your proposal realistic, the allocated working time is 175h, so we do not necessarily expect your proposal to fulfil all the items below:
 * Homogeneous front-end interface format defined.
-* App integration for existing Models
-* Automated generation of web interfaces for new models
+* App integration for existing models.
+* Automated generation of web interfaces for new models.
 
 ### Idea 2: A large-scale database of pre-computed predictions across the Ersilia Model Hub
 
@@ -71,15 +71,15 @@ Keep your proposal realistic, the allocated working time is 175h, so we do not n
 * Mentors: Miquel, Gemma
 
 #### Background
-A key resource for Open Source research in drug discovery is the accessibility to libraries of compounds enriched in hits. Pharma companies have, over the years, collected and curated collections of potential hits that now constitute their main asset, and is therefore of utmost importance to identify avenues by which Open Source projects could benefit from this knowledge without compromising the industry’s IP.
+A key resource for Open Source research in drug discovery is the accessibility to libraries of compounds enriched in hits. Pharma companies have, over the years, collected and curated collections of potential hits that now constitute their main asset, and is therefore of utmost importance to identify avenues by which Open Source projects could benefit from this knowledge without compromising the industry’s IP. You can read a bit more about why is this important in this [blogpost](https://ersilia-hub.netlify.app/blog/2021/02/01/os-licenses/).
 
 #### Project description
-In this project, the student will develop an automated encryption protocol for such libraries, latest advances in encrypted computation and homomorphic encryption applied to the field of ML: [PySyft](https://github.com/OpenMined/PySyft) or [TF-encrypted](https://tf-encrypted.io/ )
+In this project, the student will develop an automated encryption protocol for such libraries, latest advances in encrypted computation and homomorphic encryption applied to the field of ML: [PySyft](https://github.com/OpenMined/PySyft) or [TF-encrypted](https://tf-encrypted.io/ ).
 
 #### Expected outcomes:
 Keep your proposal realistic, the allocated working time is 175h, so we do not necessarily expect your proposal to fulfil all the items below:
-* Encryption model for molecule information (structure, function, interactors etc.)
-* Encryption model for genetic information (genotyping, transcriptomics analysis etc.)
+* Encryption model for molecule information (structure, function, interactors etc.).
+* Encryption model for genetic information (genotyping, transcriptomics analysis etc.).
 * Automated protocol for feeding encrypted information to the Chemical Checker (see below).
 
 ### Idea 4: Transfer learning and AutoML to populate the Ersilia Model Hub
