@@ -12,10 +12,17 @@
         </p>
     	</Card>
       <Card class="sponsor text-center">
-        <g-link to="https://fosshost.org">
+        <g-link to="https://digitalprinciples.org">
           <g-image src="~/assets/images/PDD-UpdatedLogo-1.png" alt="PDD"/>
         </g-link>
         <p>We endorse the <a href="https://digitalprinciples.org/"  rel="noopener" target="_blank">Principles for Digital Development</a>.
+        </p>
+    	</Card>
+      <Card class="sponsor text-center">
+        <g-link to="https://www.smallcharities.org.uk/">
+          <g-image src="~/assets/images/SSC_2021.jpg" alt="PDD"/>
+        </g-link>
+        <p>Proud members of the <a href="https://www.smallcharities.org.uk/"  rel="noopener" target="_blank">Small Charities Coalition</a> network.
         </p>
     	</Card>
     </div>
