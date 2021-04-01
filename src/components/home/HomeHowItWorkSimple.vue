@@ -142,7 +142,7 @@ export default {
 
   &__powered-by {
     opacity: .8;
-    line-height: 1.3;
+    line-height: 1.1;
     padding-bottom: 1.2rem;
   }
 }

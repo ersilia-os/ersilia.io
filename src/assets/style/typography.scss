@@ -90,6 +90,7 @@
 
 p {
   letter-spacing: -.15px;
+  line-height: 1.4;
   &:last-child {
     margin-bottom: 0;
   }
@@ -107,7 +108,7 @@ li {
 h1, h2, h3 {
   small {
     font-weight: normal;
-    opacity: .8;
+    opacity: 1;
     margin: 0 1rem;
     letter-spacing: -1px;
 

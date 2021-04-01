@@ -109,7 +109,7 @@ export default {
 }
 
 .home-title {
-  line-height: 1.3;
+  line-height: 1;
   font-size: 2.4rem;
 
   @media (max-width: 600px) {

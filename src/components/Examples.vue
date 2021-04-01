@@ -122,7 +122,7 @@ query {
 			color: #FFF;
 			text-decoration: none;
 			background-color: transparent;
-			line-height: 1.2;
+			line-height: 1;
 			padding: 10px 10px;
 			border-radius: 5px;
 			width: 100%;

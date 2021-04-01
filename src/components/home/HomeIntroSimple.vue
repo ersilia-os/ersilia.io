@@ -9,7 +9,7 @@
         <p class="intro__lead lead post mb">
           Open Source Drug Discovery for Global Health
         </p>
-
+        </p>
         <p class="intro__links">
           <g-link  to="/soon/" class="button primary button--large">
             <span>Check our Models</span>
@@ -44,6 +44,7 @@ query {
     margin-left: auto;
     margin-right: auto;
     letter-spacing: -1px;
+    margin-bottom: 0;
 
     @media screen and (max-width: 850px) {
       & {
@@ -57,7 +58,6 @@ query {
     margin-left: auto;
     margin-right: auto;
     font-size: 1.3rem;
-
     @media screen and (max-width: 850px) {
       & {
         font-size: 1rem;
@@ -67,6 +67,7 @@ query {
 
   &__info {
     font-size: .9rem;
+    margin-top: -1rem;
   }
 
   &__keywords {

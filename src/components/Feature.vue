@@ -30,8 +30,8 @@ export default {
 
     h3 {
       margin-bottom: .5rem;
-      line-height: 1.4;
+      line-height: 1;
     }
-    
+
   }
 </style>
