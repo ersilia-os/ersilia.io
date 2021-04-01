@@ -1,5 +1,5 @@
 <template>
-  <Section class="home-intro" dots="true" dark="true">
+  <Section class="home-intro" dots="false" dark="true">
     <div class="home-cols grid-cols grid-cols--2 grid-cols--gap-small">
       <div class="home-cols__left">
 

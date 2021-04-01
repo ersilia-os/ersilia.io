@@ -1,5 +1,5 @@
 <template>
-  <Section dots="true" class="post">
+  <Section dots="false" class="post">
     <h2 class="text-center">High performance baked-in ⚡️🚀</h2>
 
     <p class="lead text-center container-md ">

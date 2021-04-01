@@ -1,6 +1,6 @@
 <template>
   <div class="logo">
-    <g-link class="logo__link" to="/" title="Back to home">
+    <g-link class="logo__link" to="http://ersilia.io" title="Back to home">
         Ersilia Open Source Initiative
     </g-link>
   </div>

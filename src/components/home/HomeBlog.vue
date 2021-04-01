@@ -1,5 +1,5 @@
 <template>
-  <Section dots="true" secondary="true">
+  <Section dots="false" secondary="true">
     <div class="container text-center container-sm mb">
       <h2>Ersilia Blog</h2>
     </div>

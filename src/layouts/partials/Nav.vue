@@ -1,6 +1,10 @@
 <template>
   <nav class="main-nav flex gap-15">
 
+    <g-link to="/">
+      <span class="main-nav__label">Home</span>
+    </g-link>
+
     <g-link to="/soon/">
       <span class="main-nav__label">Models</span>
     </g-link>
@@ -11,10 +15,6 @@
 
     <g-link to="/blog/">
       <span class="main-nav__label">Blog</span>
-    </g-link>
-
-    <g-link to="http://ersilia.io">
-      <span class="main-nav__label">About</span>
     </g-link>
 
   </nav>

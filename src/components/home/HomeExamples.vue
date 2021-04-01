@@ -1,5 +1,5 @@
 <template>
-  <Section dots="true">
+  <Section dots="false">
 		<h2 class="text-center mb-x2">Our team</h2>
     <div class="homepage-features grid-cols">
 

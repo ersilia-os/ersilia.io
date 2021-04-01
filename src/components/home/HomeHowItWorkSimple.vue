@@ -37,10 +37,10 @@
         </p>
 
         <ul class="bullet-list mb">
-          <li><Bullet /><g-link to="/docs/">Single web app predictions</g-link></li>
-          <li><Bullet /><g-link to="/docs/">Batch predictions through API</g-link></li>
-          <li><Bullet /><g-link to="/docs/">Download and run locally</g-link></li>
-          <li><Bullet /><g-link to="/docs/">Orchestrate multiple models</g-link></li>
+          <li><Bullet /> Single web app predictions</li>
+          <li><Bullet /> Batch predictions through API</li>
+          <li><Bullet /> Download and run locally</li>
+          <li><Bullet /> Orchestrate multiple models</li>
         </ul>
       </Card>
 

@@ -1,9 +1,9 @@
 <template>
-  <Section class="intro" dots="true">
+  <Section class="intro" dots="false">
     <div class="container text-center ">
 
         <h1 class="intro__title">
-          <span>Welcome to Ersilia Hub!</span>
+          <span>Welcome to the Ersilia Model Hub!</span>
         </h1>
 
         <p class="intro__lead lead post mb">
@@ -12,7 +12,7 @@
 
         <p class="intro__links">
           <g-link  to="/soon/" class="button primary button--large">
-            <span>Check our Hub</span>
+            <span>Check our Models</span>
           </g-link>
         </p>
 

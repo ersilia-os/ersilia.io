@@ -36,22 +36,22 @@
 import LazyHydrate from 'vue-lazy-hydration'
 import HomeIntroSimple from '@/components/home/HomeIntroSimple.vue'
 import HomeHowItWorkSimple from '@/components/home/HomeHowItWorkSimple.vue'
-import HomeBlog from '@/components/home/HomeBlog.vue'
-import HomeFeatures from '@/components/home/HomeFeatures.vue'
-import HomeExamples from '@/components/home/HomeExamples.vue'
-import HomeCommunity from '@/components/home/HomeCommunity.vue'
-import HomeConnect from '@/components/home/HomeConnect.vue'
+/*import HomeBlog from '@/components/home/HomeBlog.vue'*/
+/*import HomeFeatures from '@/components/home/HomeFeatures.vue'*/
+/*import HomeExamples from '@/components/home/HomeExamples.vue'*/
+/*import HomeCommunity from '@/components/home/HomeCommunity.vue'*/
+/*import HomeConnect from '@/components/home/HomeConnect.vue'*/
 
 export default {
   components: {
     LazyHydrate,
     HomeIntroSimple,
     HomeHowItWorkSimple,
-    HomeExamples,
-    HomeCommunity,
-    HomeConnect,
-    HomeFeatures,
-    HomeBlog
+    /*HomeExamples,*/
+    /*HomeCommunity,*/
+    /*HomeConnect,*/
+    /*HomeFeatures,*/
+    /*HomeBlog*/
   },
 
   metaInfo: {
@@ -63,7 +63,7 @@ export default {
 <style>
 @media screen and (min-width: 850px) {
   .layout-homepage header{
-    border-color: transparent;
+    border-color: var(--border-color);
   }
 }
 </style>
