@@ -162,7 +162,7 @@ Co-founder and Chief Scientific Officer
 
 ### Reviewer
 
-European Journal of Pharmacology, Bioinformatics, PLoS Computational Biology, PLoS One, MDPI Molecules, Scientific Data
+European Journal of Pharmacology, Bioinformatics, PLoS Computational Biology, PLoS One, MDPI Molecules, Scientific Data, BMC Bioinformatics, Scientific Reports
 
 ## Fiction writing
 

@@ -2,12 +2,10 @@
   items:
     - title: Welcome
       link: /docs/
-    - title: Quick-start
-      link: /docs/usage/
     - title: Installation
       link: /docs/installation/
-    - title: Model deployment
-      link: /docs/deployment/
+    - title: Quick start
+      link: /docs/quickstart/
     - title: For contributors
       link: /docs/contribute-models/
 
@@ -43,5 +41,5 @@
       link: /docs/support-our-project/
     - title: Request a model
       link: /docs/request-a-model/
-    - title: GSoC project ideas
-      link: /docs/gsoc-project-ideas/
+    - title: Ideas for students
+      link: /docs/project-ideas/

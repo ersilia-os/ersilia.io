@@ -1,4 +1,5 @@
-# Project ideas for the Google Summer of Code 2021
+# Project ideas for students
+
 ## An introduction to the Ersilia Model Hub
 The Ersilia Model Hub is a web-based platform maintained by Ersilia Open Source Initiative (EOSI). It features Machine Learning (ML) models for biomedicine and drug discovery, with a focus on infectious and neglected diseases. Its aim is to bring ML closer to biomedical research and empower uninitiated researchers in the world of computational pharmacology.
 
