@@ -160,9 +160,10 @@ Co-founder and Chief Scientific Officer
 * Computational drug discovery consultancy for several pharma and biotech companies, including Janssen, Almirall, Anaxomics, Omnia and Nostrum BioDiscovery
 * Capacity building consultancy for University of Bern
 
-### Reviewer
+### Editorials
 
-European Journal of Pharmacology, Bioinformatics, PLoS Computational Biology, PLoS One, MDPI Molecules, Scientific Data, BMC Bioinformatics, Scientific Reports
+* Editorial board: Frontiers in Drug Discovery
+* Reviewer: European Journal of Pharmacology, Bioinformatics, PLoS Computational Biology, PLoS One, MDPI Molecules, Scientific Data, BMC Bioinformatics, Scientific Reports
 
 ## Fiction writing
 
