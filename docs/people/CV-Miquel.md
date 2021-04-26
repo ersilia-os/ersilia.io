@@ -24,7 +24,7 @@ Co-founder and Chief Scientific Officer
 
 #### PhD Student at IRB Barcelona
 
-*Spain, Sept 2011 – Jan 2016:* **Structural Bioinformatics and Network Biology Laboratory.** Network biology approaches to pharmacology and drug side effects.
+*Spain, Sept 2011 – Jan 2016:* Structural Bioinformatics and Network Biology Laboratory. Network biology approaches to pharmacology and drug side effects.
 
 #### Visiting Researcher at Manhiça Health Research Center
 
@@ -164,6 +164,11 @@ Co-founder and Chief Scientific Officer
 
 * Editorial board: Frontiers in Drug Discovery
 * Reviewer: European Journal of Pharmacology, Bioinformatics, PLoS Computational Biology, PLoS One, MDPI Molecules, Scientific Data, BMC Bioinformatics, Scientific Reports
+
+### Societies
+
+* Catalan Society of Biology
+* Catalan Society of Chemistry
 
 ## Fiction writing
 
