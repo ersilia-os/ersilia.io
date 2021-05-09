@@ -1,7 +1,7 @@
 <template>
   <footer class="text-center">
-    Copyright 2020 by
-    <g-link to="http://ersilia.io"> Ersilia Open Source Initiative</g-link>
+    Copyright 2021 by
+    <g-link to="https://ersilia.io"> Ersilia Open Source Initiative</g-link>
     Content on this website licensed under <g-link to="https://creativecommons.org/licenses/by/4.0/" style="margin-left: .5rem">CC BY 4.0</g-link>
 
   </footer>

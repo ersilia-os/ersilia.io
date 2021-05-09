@@ -174,8 +174,8 @@ Co-founder and Chief Scientific Officer
 
 ### Publications
 
-* Més o menys jo (Bridge, 2nd Ed., Catalan and Spanish). Crítica Serra d’Or Award. *Nov 2014*\
-* Can Prat (Short story in Risc, Rata, Anthology of Contemporary Writers, Catalan and Spanish). *Mar 2017*\
+* Més o menys jo (Bridge, 2nd Ed., Catalan and Spanish). Crítica Serra d’Or Award. *Nov 2014*
+* Can Prat (Short story in Risc, Rata, Anthology of Contemporary Writers, Catalan and Spanish). *Mar 2017*
 * La concavitat de l’horitzó, Cinc indicis… (Short stories in 24 contes al dia, Godall, Catalan). *Apr 2018*
 
 ### Education
